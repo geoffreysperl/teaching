@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
-title: Geoffrey Sperl | Teaching Portfolio
-logo: '/images/transparent_logo.png'
+title: Geoffrey Sperl
+# logo: '/images/transparent_logo.png'
 description: Geoffrey Sperl's Teaching Portfolio
 color_scheme: light # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
@@ -29,7 +29,7 @@ menu__settings:
 #-------------------------------
 # Author Settings
 author:
-  author__name: Jason Hill
+  author__name: Geoffrey Sperl
   author__bio: Hi, I'm Jason – Graphic Designer. I'm a creative and curious person who has a lot of experience and fond moments working with design, websites, and marketing.
   author__avatar: '/images/01.jpg'
 
@@ -51,7 +51,7 @@ hero:
   enable: true
   hero__title: Hey everyone, I’m Jason Hill
   hero__description: Hi, I'm Jason – Graphic Designer. I'm a creative and curious person who has a lot of experience and fond moments working with design, websites, and marketing.
-  hero__image: "/images/01-1.jpg"
+  hero__image: "/images/transparent_logo.png"
 
 
 #-------------------------------
@@ -182,8 +182,8 @@ footer__background__image: "/images/bg.jpg"
 
 #-------------------------------
 # Contact Settings
-contact:
-  email: geoffrey@wayne.edu
+# contact:
+#  email: geoffrey@wayne.edu
   # description: Akio comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
 
 # NOTE
