@@ -42,7 +42,7 @@ social:
 # Hero Settings
 hero:
   enable: true
-  hero__title: Hey everyone, I’m Geoffrey Sperl
+  hero__title: Geoffrey Sperl
   hero__description: I'm a teacher, researcher, and designer. I'm passionate about creating equitable learning environments for all students.
   hero__image: "/images/profile.jpg"
 
