@@ -1,47 +1,39 @@
-<footer>
-  <div class="container-md beautiful-jekyll-footer">
-    <div class="row">
-      <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
-      {% include social-networks-links.html %}
-      {% if page.footer-extra %}
-        <div class="footer-custom-content">
-          {% for file in page.footer-extra %}
-            {% include {{ file }} %}
-          {% endfor %}
+<!-- begin footer -->
+<footer class="footer">
+
+  <div class="footer__inner">
+
+    <div class="container">
+      <div class="footer__author">
+        <div class="footer__author-info">
+          <h3 class="footer__author-name">{{site.data.settings.author.author__name}}</h3>
+          {% if site.data.settings.social %}
+          <div class="social">
+            <ul class="social__list list-reset">
+              {% for social in site.data.settings.social %}
+              <li class="social__item">
+                <a class="social__link" href="{{social.link}}" target="_blank" rel="noopener"
+                  aria-label="Social link"><i class="ion {{social.icon}}"></i></a>
+              </li>
+              {% endfor %}
+            </ul>
+          </div>
+          {% endif %}
+          <p class="footer__author-bio">{{site.data.settings.author.author__bio}}</p>
         </div>
-      {% endif %}
-      <p class="copyright text-muted">
-      {% if site.author %}
-        {{ site.author }}
-        &nbsp;&bull;&nbsp;
-      {% endif %}
-      {{ site.time | date: '%Y' }}
+      </div>
+    </div>
 
-      {% if site.url-pretty %}
-        &nbsp;&bull;&nbsp;
-        <span class="author-site">
-          <a href="{% if site.url-canonical %}{{ site.url-canonical }}{% else %}{{ '/' | absolute_url }}{% endif %}">{{ site.url-pretty }}</a>
-        </span>
-      {% endif %}
+    <div class="footer__bg lazy" data-bg="{{site.data.settings.footer__background__image}}"></div>
+  </div>
 
-      {% if site.matomo %}
-        {% if site.matomo.opt-out %}
-          &nbsp;&bull;&nbsp;
-          <a href="http://{{- site.matomo.uri -}}/index.php?module=CoreAdminHome&action=optOut" target="_blank" class="text_muted">Do-not-Track</a>
-        {% endif %}
-      {% endif%}
-
-      {% if site.edit_page_button and site.github.repository_url %}
-        &nbsp;&bull;&nbsp;
-        <a title="Edit this page on GitHub" href="{{ site.github.repository_url }}/edit/{{ site.github.source.branch }}/{{ page.path }}" class="text_muted">Edit page</a>
-       {% endif%}
-
-      </p>
-      {% unless site.remove-ads %}<p class="theme-by text-muted">
-        Powered by
-        <a href="https://beautifuljekyll.com">Beautiful Jekyll</a>
-      </p>{% endunless %}
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <div class="copyright">{{site.time | date: '%Y'}} &copy; <a href="/">{{site.data.settings.title}}</a>. Published with <a href="https://jekyllrb.com/">Jekyll</a>. Crafted & Designed by <a href="https://jekyllthemes.io/developers/artem-sheludko">Artem Sheludko</a>.</div>
       </div>
     </div>
   </div>
+
 </footer>
+<!-- end footer -->
