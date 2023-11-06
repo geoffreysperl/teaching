@@ -3,8 +3,7 @@
 title: Geoffrey Sperl
 # logo: '/images/transparent_logo.png'
 description: Geoffrey Sperl's Teaching Portfolio
-color_scheme: light # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
-
+color_scheme: light # You can choose three modes auto, light, and dark.
 
 #-------------------------------
 # Navigation Settings
@@ -49,7 +48,7 @@ hero:
   enable: true
   hero__title: Hey everyone, I’m Jason Hill
   hero__description: Hi, I'm Jason – Graphic Designer. I'm a creative and curious person who has a lot of experience and fond moments working with design, websites, and marketing.
-  hero__image: "/images/transparent_logo.png"
+  hero__image: "/images/profile.jpg"
 
 
 #-------------------------------
