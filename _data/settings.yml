@@ -3,7 +3,7 @@
 title: Geoffrey Sperl
 # logo: '/images/transparent_logo.png'
 description: Geoffrey Sperl's Teaching Portfolio
-color_scheme: light # You can choose three modes auto, light, and dark.
+color_scheme: light # Choose auto, light, and dark.
 
 #-------------------------------
 # Navigation Settings
@@ -13,10 +13,6 @@ menu__settings:
       url: '/'
     - title: 'About'
       url: '/about/'
-    - title: 'Work'
-      url: '/work/'
-    - title: 'Writing'
-      url: '/blog/'
     - title: 'Effective Urban Educator'
       submenu:
       - url: '/contact/'
