@@ -21,6 +21,16 @@ menu__settings:
         title: 'Innovative Practitioner'
       - url: '/diversity/'
         title: 'Committed to Diversity'
+    - title: 'Contact'
+      submenu:
+      - url: 'https://geoffreysperl.com'
+        title: 'geoffreysperl.com'
+      - url: 'https://www.linkedin.com/in/geoffreysperl/'
+        title: 'LinkedIn'
+      - url: 'https://github.com/geoffreysperl'
+        title: 'GitHub'
+      - url: 'mailto:geoffrey@wayne.edu'
+        title: 'Email'
 
 #-------------------------------
 # Author Settings
@@ -29,9 +39,9 @@ author:
   author__bio: Hi, I'm Geoffrey. 
   author__avatar: '/images/square-library.jpg'
 
-social:
-- {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/geoffreysperl/"}
-- {icon: "ion-logo-github", link: "https://github.com/geoffreysperl"}
+# social:
+# - {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/geoffreysperl/"}
+# - {icon: "ion-logo-github", link: "https://github.com/geoffreysperl"}
 
 
 #-------------------------------
