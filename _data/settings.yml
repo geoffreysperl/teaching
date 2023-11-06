@@ -18,12 +18,14 @@ menu__settings:
       url: '/work/'
     - title: 'Writing'
       url: '/blog/'
-    - title: 'Pages'
+    - title: 'Effective Urban Educator'
       submenu:
       - url: '/contact/'
-        title: 'Contact'
+        title: 'Reflective Practitioner'
       - url: '/elements/'
-        title: 'Elements'
+        title: 'Innovative Practitioner'
+      - url: '/elements/'
+        title: 'Commited to Diversity'
 
 
 #-------------------------------
