@@ -22,7 +22,6 @@ menu__settings:
       - url: '/diversity/'
         title: 'Committed to Diversity'
 
-
 #-------------------------------
 # Author Settings
 author:
@@ -33,9 +32,6 @@ author:
 social:
 - {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/geoffreysperl/"}
 - {icon: "ion-logo-github", link: "https://github.com/geoffreysperl"}
-
-# Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
-# Other icons can be found at https://ionicons.com/v4/
 
 
 #-------------------------------
@@ -103,16 +99,6 @@ blog:
 #-------------------------------
 # Footer Settings
 footer__background__image: "/images/bg.jpg"
-
-#-------------------------------
-# Contact Settings
-# contact:
-#  email: geoffrey@wayne.edu
-  # description: Akio comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
-
-# NOTE
-# Akio theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
-
 
 #-------------------------------
 # Comment Section (Disqus)
