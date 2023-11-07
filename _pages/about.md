@@ -1,11 +1,12 @@
 ---
 layout: page
 title: About
-description: I'm a creative and curious person who has a lot of experience and fond moments working with design, websites, and marketing.
+description: 
 permalink: /about/
-image: '/images/01-2.jpg'
-image_caption: 'Photo by [Bruce Dixon](https://unsplash.com/photos/3M9WJQVHzog) on [Unsplash](https://unsplash.com/)'
+image: '/images/square-stonehenge.jpg'
+image_caption: 'Stonehenge, May 2018'
 ---
+
 
 Hymnals are books with collections of musical hymns that can typically be found in churches. Prayerbooks or missals are books that contain written prayers and are commonly carried by monks, nuns, and other devoted followers or clergy. Lap books are a learning tool created by students.
 

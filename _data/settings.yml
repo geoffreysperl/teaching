@@ -109,14 +109,3 @@ blog:
 #-------------------------------
 # Footer Settings
 footer__background__image: "/images/bg.jpg"
-
-#-------------------------------
-# Comment Section (Disqus)
-#disqus:
-##  enable: true
-##  disqus__identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvod-studio-test
-
-
-#-------------------------------
-# Google Analytics
-# google-analytics: # Add your GA Tracking Id
