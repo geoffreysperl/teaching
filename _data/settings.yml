@@ -37,7 +37,7 @@ menu__settings:
 author:
   author__name: Geoffrey Sperl
   author__bio: Hi, I'm Geoffrey. 
-  author__avatar: '/images/square-library.jpg'
+  author__avatar: 'https://teaching.geoffreysperl.com/images/square-library.jpg'
 
 # social:
 # - {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/geoffreysperl/"}

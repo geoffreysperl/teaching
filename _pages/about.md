@@ -3,7 +3,7 @@ layout: page
 title: About
 description: 
 permalink: /about/
-image: '/images/square-stonehenge.jpg'
+image: 'https://teaching.geoffreysperl.com/images/square-stonehenge.jpg'
 image_caption: 'Stonehenge, May 2018'
 ---
 
