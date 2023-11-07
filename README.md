@@ -1,47 +1,19 @@
-# Akio – Creative Portfolio Theme for Jekyll
+# Teaching Portfolio
 
-Akio is a creative personal portfolio Jekyll theme. This theme has a modern design and high-speed performance. The highlights of this theme include support Github Pages, light and dark mode, and also sections such as work, blog, clients, and testimonials. Perfectly suitable for any developer, designer, freelancer, software engineer, or some other who needs a professional way to showcase their work.
+Repo here, deploys on Netlify.
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cb84a25b-4975-41c3-a9af-26c2b48cfea9/deploy-status)](https://app.netlify.com/sites/geoffreysperl/deploys)
 
 * * *
 
 ### Demo
 
-Check the theme in action [Live Demo](https://akio-jekyll.netlify.app/) |
+Original Akio theme [Live Demo](https://akio-jekyll.netlify.app/), developed by
 [Artem Sheludko](https://jekyllthemes.io/developers/artem-sheludko)
 
 * * *
 
-### Theme features
-
-- Works with GitHub Pages (host it for free)
-- Dark and light mode user can select themself
-- No jQuery, only vanilla JS
-- 100% responsive Design
-- Clean Code
-- Optimized for mobile devices
-- Section Blog
-- Section Works
-- Section Testimonials
-- Super fast performance ⚡⚡⚡
-- Social sharing buttons
-- Scroll to top button
-- Syntax highlighting (supports the Jekyll syntax highlighter)
-- Compatible with modern browsers
-- Medium style image zoom
-- Image Lazy loading
-- Image gallery
-- Custom logo support
-- Supports contact form (Formspree)
-- Supports MailChimp newsletter
-- Supports Disqus comments
-- Supports Google Analytics
-- Ionicons icons
-- Free Google Fonts
-- Free Updates & Support
-
-* * *
-
-### Installation
+### Artem Sheludko's Installation Notes
 
 #### Installing Ruby & Jekyll
 
