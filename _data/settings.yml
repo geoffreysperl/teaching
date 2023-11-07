@@ -1,10 +1,9 @@
 #-------------------------------
 # Site Settings
 title: Geoffrey Sperl
-logo: # You can add own logo. For example '/images/logo.png'.
+# logo: 
 description: Geoffrey Sperl's Teaching Portfolio
-color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
-
+color_scheme: auto # auto, light, or dark
 
 #-------------------------------
 # Navigation Settings
@@ -14,16 +13,14 @@ menu__settings:
       url: '/'
     - title: 'About'
       url: '/about/'
-    - title: 'Work'
-      url: '/work/'
-    - title: 'Writing'
-      url: '/blog/'
-    - title: 'Pages'
+    - title: 'Effective Urban Educator'
       submenu:
-      - url: '/contact/'
-        title: 'Contact'
-      - url: '/elements/'
-        title: 'Elements'
+      - url: '/reflective/'
+        title: 'Reflective Practitioner'
+      - url: '/innovative/'
+        title: 'Innovative Practitioner'
+      - url: '/equitable/'
+        title: 'Committed to Equity for Diverse Learners'
 
 
 #-------------------------------
@@ -174,7 +171,7 @@ blog__settings:
 
 #-------------------------------
 # Footer Settings
-footer__background__image: "/images/bg.jpg"
+# footer__background__image: "/images/bg.jpg"
 
 # #-------------------------------
 # # Contact Settings
