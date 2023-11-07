@@ -28,7 +28,7 @@ menu__settings:
 author:
   author__name: Geoffrey Sperl
   # author__bio: I'm a student, teacher, and writer. My primary content area is ELA, but I also teach ESL and have 25 years working with computers.
-  author__avatar: '/images/geoffrey-sperl.jpg'
+  # author__avatar: '/images/geoffrey-sperl.jpg'
 
 social:
 - {icon: "ion-logo-linkedin", link: "https://linkedin.com/in/geoffreysperl"}
@@ -42,9 +42,9 @@ social:
 # Hero Settings
 hero:
   enable: true
-  # hero__title: 
+  hero__title: Hi!
   hero__description: I'm a student, teacher, and writer. My primary content area is ELA, but I also teach ESL and have 25 years working with computers. I hold both a BA and MA in English, and am currently working on my MA in Teaching.
-  hero__image: "/images/square-library.jpg"
+  hero__image: "/images/geoffrey-sperl.jpg"
 
 
 #-------------------------------
