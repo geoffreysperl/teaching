@@ -51,7 +51,7 @@ hero:
   enable: true
   hero__title: Hey everyone, I’m Jason Hill
   hero__description: Hi, I'm Jason – Graphic Designer. I'm a creative and curious person who has a lot of experience and fond moments working with design, websites, and marketing.
-  hero__image: "/images/01-1.jpg"
+  hero__image: "/images/square-library.jpg"
 
 
 #-------------------------------
