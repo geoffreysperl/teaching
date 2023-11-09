@@ -21,7 +21,8 @@ menu__settings:
         title: 'Innovative Practitioner'
       - url: '/equitable/'
         title: 'Committed to Equity for Diverse Learners'
-
+    - title: 'Email Me'
+      url: 'mailto:geoffrey@wayne.edu'
 
 #-------------------------------
 # Author Settings
