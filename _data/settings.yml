@@ -11,7 +11,7 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - title: 'About'
+    - title: 'About Me'
       url: '/about/'
     - title: 'Effective Urban Educator'
       submenu:
@@ -30,11 +30,11 @@ author:
   # author__bio: I'm a student, teacher, and writer. My primary content area is ELA, but I also teach ESL and have 25 years working with computers.
   # author__avatar: '/images/geoffrey-sperl.jpg'
 
-social:
-- {icon: "ion-logo-linkedin", link: "https://linkedin.com/in/geoffreysperl"}
-- {icon: "ion-logo-github", link: "https://github.com/geoffreysperl"}
-- {icon: "ion-logo-send", link: "mailto:geoffrey@geoffreysperl.com"}
-- {icon: "ion-logo-globe", link: "https://geoffreysperl.com"}
+# social:
+# - {icon: "ion-logo-linkedin", link: "https://linkedin.com/in/geoffreysperl"}
+# - {icon: "ion-logo-github", link: "https://github.com/geoffreysperl"}
+# - {icon: "ion-logo-send", link: "mailto:geoffrey@geoffreysperl.com"}
+# - {icon: "ion-logo-globe", link: "https://geoffreysperl.com"}
 # Other icons can be found at https://ionicons.com/v4/
 
 
@@ -42,8 +42,8 @@ social:
 # Hero Settings
 hero:
   enable: true
-  hero__title: Hi!
-  hero__description: I'm a student, teacher, and writer. My primary content area is ELA, but I also teach ESL and have 25 years working with computers. I hold both a BA and MA in English, and am currently working on my MA in Teaching.
+  hero__title: Hi! I'm Geoffrey.
+  hero__description: I'm an aspiring secondary ELA and ESL educator with a passion for teaching and learning. To read more about me, click "About Me" above. 
   hero__image: "/images/geoffrey-sperl.jpg"
 
 
