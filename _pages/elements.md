@@ -116,11 +116,10 @@ li {
   <div class="gallery">
     <img src="/images/artifacts/wakanda/wakanda-gallery-walk-collection-1.jpg" loading="lazy">
     <img src="/images/artifacts/wakanda/wakanda-gallery-walk-collection-2.jpg" loading="lazy">
-    <img src="/images/artifacts/wakanda/wakanda-gallery-walk-collection-3.jpg" loading="lazy">
     <img src="/images/artifacts/wakanda/wakanda-gallery-walk-collection-4.jpg" loading="lazy">
-    <img src="/images/artifacts/wakanda/wakanda-gallery-walk-collection-5.jpg" loading="lazy">
+
   </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
+  <em>Wakanda and Africa Gallery Walk, February 2023</a></em>
 </div>
 
 ![Sea]({{site.baseurl}}/images/post-7.jpg)
