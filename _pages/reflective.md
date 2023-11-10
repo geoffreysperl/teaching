@@ -8,7 +8,7 @@ permalink: /reflective/
 ---
 Effective urban educators are Reflective Practitioners who can accurately assess themselves and develop plans for improvement. During my time in computing, one of my responsibilities was continuous improvement. After a service was delivered to a client, my teams and I had to look at what could have been done better and how it could have been done better. That same reflective practice follows me in all I do.
 
-> For me, being "reflective" isn't solely about ma as the teacher or my lesson. The teacher must use that reflection to understand the students' needs.
+> For me, being "reflective" isn't solely about me as the teacher or my lesson. The teacher must use that reflection to understand the students' needs.
 
 I focus on understanding how a lesson has gone, often asking students for exit tickets to gather their thoughts and quickly jotting mine down. This allows me to review what went well (and what didn't) when I look back on the lesson in the future.
 
