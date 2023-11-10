@@ -8,7 +8,9 @@ permalink: /about/
 ---
 I'm a dad, husband, student, educator, storyteller, writer, and podcaster.
 
-My primary content area is secondary ELA, and I am also working on my ESL endorsement. I am currently in my student teaching cycle at Hamtramck High School in metro Detroit, and I also teach ESL at the college level. I am also a technologist with 25 years of experience working with computers. In addition to finishing my teaching certification, I am will complete an MA in Teaching by 2026, and I hold both a BA and MA in English.
+My primary content area is secondary ELA, and I am also working on my ESL endorsement. I am currently in my student teaching cycle at Hamtramck High School in metro Detroit, and I also teach ESL at the college level and have been a long-term substitute at Eastpointe Middle School. Further, I am a technologist with 25 years of experience working with computers.
+
+In addition to finishing my teaching certification, I will complete an MA in Teaching by 2026, and I hold both a BA and MA in English.
 
 ## How Did I Get Here?
 
