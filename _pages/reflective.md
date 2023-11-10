@@ -6,11 +6,11 @@ permalink: /reflective/
 # image: ''
 # image_caption: ''
 ---
-## Effective urban educators are Reflective Practitioners who can accurately assess themselves and develop plans for improvement.
+Effective urban educators are Reflective Practitioners who can accurately assess themselves and develop plans for improvement. During my time in computing, one of my responsibilities was continuous improvement. After a service was delivered to a client, my teams and I had to look at what could have been done better and how it could have been done better. That same reflective practice follows me in all I do.
 
-During my time in computing, one of my responsibilities was continuous improvement. After a service was delivered to a client, my teams and I had to look at what could have been done better and how it could have been done better. That same reflective practice follows me in all I do.
+> Being "reflective" isn't solely about the teacher or their lesson. The teacher must use that reflection to understand the students' needs.
 
-I focus on understanding how a lesson has gone, often asking students for exit tickets to gather their thoughts and quickly jotting mine down. This allows me to review what went well (and what didn't) when I look back on the lesson in the future. Recently, when teaching a lesson on [Neil Gaiman's short story "Click-Clack the Rattlebag,"](https://www.commonlit.org/en/texts/click-clack-the-rattle-bag) and comparing it to Poe's "The Cask of Amontillado," I decided to have the students handle the reading and response in a single class. While I thought I moved too quickly, the response from the students overwhelmingly showed me that they loved the story and enjoyed the assignment.
+I focus on understanding how a lesson has gone, often asking students for exit tickets to gather their thoughts and quickly jotting mine down. This allows me to review what went well (and what didn't) when I look back on the lesson in the future. Recently, when teaching a lesson on [Neil Gaiman's short story "Click-Clack the Rattlebag,"](https://www.commonlit.org/en/texts/click-clack-the-rattle-bag) and comparing it to [Edgar Allan Poe's "The Cask of Amontillado"](https://poestories.com/read/amontillado) I decided to have the students handle the reading and response in a single class. While I thought I moved too quickly, the response from the students overwhelmingly showed me that they loved the story and enjoyed the assignment.
 
 <div class="gallery-box">
   <div class="gallery">
@@ -34,5 +34,5 @@ Further, as I worked with the 6th graders at EMS, it was clear I needed to find 
     <img src="/images/artifacts/wakanda/wakanda-gallery-walk-collection-2.jpg" loading="lazy">
     <img src="/images/artifacts/wakanda/wakanda-gallery-walk-collection-4.jpg" loading="lazy">
   </div>
-  <em>Wakanda and Africa Gallery Walk, February 2023</a></em>
+  <em>Wakanda and Africa Gallery Walk, February 2023</em>
 </div>
