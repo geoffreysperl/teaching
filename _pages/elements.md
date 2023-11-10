@@ -114,12 +114,11 @@ li {
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/post-1.jpg" loading="lazy">
-    <img src="/images/post-2.jpg" loading="lazy">
-    <img src="/images/post-3.jpg" loading="lazy">
-    <img src="/images/post-4.jpg" loading="lazy">
-    <img src="/images/post-8.jpg" loading="lazy">
-    <img src="/images/post-5.jpg" loading="lazy">
+    <img src="/images/artifacts/wakanda/wakanda-gallery-walk-collection-1.jpg" loading="lazy">
+    <img src="/images/artifacts/wakanda/wakanda-gallery-walk-collection-2.jpg" loading="lazy">
+    <img src="/images/artifacts/wakanda/wakanda-gallery-walk-collection-3.jpg" loading="lazy">
+    <img src="/images/artifacts/wakanda/wakanda-gallery-walk-collection-4.jpg" loading="lazy">
+    <img src="/images/artifacts/wakanda/wakanda-gallery-walk-collection-5.jpg" loading="lazy">
   </div>
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
