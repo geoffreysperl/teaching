@@ -18,6 +18,15 @@ innovation, such as use of digital tools for student engagement and deep
 learning, interdisciplinary projects, connecting learning to communities and
 students’ experiences, photos, student work samples, etc.
 
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/artifacts/carp/a.jpg" loading="lazy">
+    <img src="/images/artifacts/carp/c.png" loading="lazy">
+    <img src="/images/artifacts/carp/j.png" loading="lazy">
+  </div>
+  <em>Journal Sheets (Left to right: A, C, and J)</em>
+</div>
+
 <figure>
   <figcaption>Listen to C's final recording</figcaption>
   <audio controls src="/media/c.mp3">
@@ -35,17 +44,3 @@ students’ experiences, photos, student work samples, etc.
   <audio controls src="/media/a.mp3">
   </audio>
 </figure>
-
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/artifacts/carp/a.jpg" loading="lazy">
-    <figure>
-  <figcaption>Listen to A's final recording</figcaption>
-  <audio controls src="/media/a.mp3">
-  </audio>
-</figure>
-    <img src="/images/artifacts/carp/c.png" loading="lazy">
-    <img src="/images/artifacts/carp/j.png" loading="lazy">
-  </div>
-  <em>Journal Sheets and Final Recordings</em>
-</div>
