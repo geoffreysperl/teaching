@@ -38,14 +38,14 @@ students’ experiences, photos, student work samples, etc.
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/a.jpg" loading="lazy">
+    <img src="/images/artifacts/carp/a.jpg" loading="lazy">
     <figure>
   <figcaption>Listen to A's final recording</figcaption>
   <audio controls src="/media/a.mp3">
   </audio>
 </figure>
-    <img src="/images/c.png" loading="lazy">
-    <img src="/images/j.png" loading="lazy">
+    <img src="/images/artifacts/carp/c.png" loading="lazy">
+    <img src="/images/artifacts/carp/j.png" loading="lazy">
   </div>
   <em>Journal Sheets and Final Recordings</a></em>
 </div>
