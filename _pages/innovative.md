@@ -20,19 +20,19 @@ students’ experiences, photos, student work samples, etc.
 
 <figure>
   <figcaption>Listen to C's final recording</figcaption>
-  <audio controls src="/media/c.mp3">
+  <audio controls controlsList="nodownload" src="/media/c.mp3">
   </audio>
 </figure>
 
 <figure>
   <figcaption>Listen to J's final recording</figcaption>
-  <audio controls src="/media/j.mp3">
+  <audio controls controlsList="nodownload" src="/media/j.mp3">
   </audio>
 </figure>
 
 <figure>
   <figcaption>Listen to A's final recording</figcaption>
-  <audio controls src="/media/a.mp3">
+  <audio controls controlsList="nodownload" src="/media/a.mp3">
   </audio>
 </figure>
 
