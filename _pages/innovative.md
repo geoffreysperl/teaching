@@ -36,11 +36,16 @@ students’ experiences, photos, student work samples, etc.
   </audio>
 </figure>
 
-<!-- <div class="gallery-box">
+<div class="gallery-box">
   <div class="gallery">
-    <img src="/images/100.jpg" loading="lazy">
-    <img src="/images/101.jpg" loading="lazy">
-    <img src="/images/102.jpg" loading="lazy">
+    <img src="/images/a.jpg" loading="lazy">
+    <figure>
+  <figcaption>Listen to A's final recording</figcaption>
+  <audio controls src="/media/a.mp3">
+  </audio>
+</figure>
+    <img src="/images/c.png" loading="lazy">
+    <img src="/images/j.png" loading="lazy">
   </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div> -->
+  <em>Journal Sheets and Final Recordings</a></em>
+</div>
