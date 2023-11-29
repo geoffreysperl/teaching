@@ -18,6 +18,13 @@ innovation, such as use of digital tools for student engagement and deep
 learning, interdisciplinary projects, connecting learning to communities and
 students’ experiences, photos, student work samples, etc.
 
+<figure>
+  <figcaption>To C's final recording.</figcaption>
+  <audio controls src="/media/c.mp3">
+    <a href="/media/cc0-audio/t-rex-roar.mp3"> Download audio </a>
+  </audio>
+</figure>
+
 <!-- <div class="gallery-box">
   <div class="gallery">
     <img src="/images/100.jpg" loading="lazy">
