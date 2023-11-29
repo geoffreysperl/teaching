@@ -20,9 +20,9 @@ students’ experiences, photos, student work samples, etc.
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/artifacts/carp/a.png" loading="lazy">
-    <img src="/images/artifacts/carp/c.png" loading="lazy">
-    <img src="/images/artifacts/carp/j.png" loading="lazy">
+    <img src="/images/artifacts/carp/a.jpg" loading="lazy">
+    <img src="/images/artifacts/carp/c.jpg" loading="lazy">
+    <img src="/images/artifacts/carp/j.jpg" loading="lazy">
   </div>
   <em>Journal Sheets (Left to right: A, C, and J)</em>
 </div>
