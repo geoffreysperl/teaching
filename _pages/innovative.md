@@ -47,5 +47,5 @@ students’ experiences, photos, student work samples, etc.
     <img src="/images/artifacts/carp/c.png" loading="lazy">
     <img src="/images/artifacts/carp/j.png" loading="lazy">
   </div>
-  <em>Journal Sheets and Final Recordings</a></em>
+  <em>Journal Sheets and Final Recordings</em>
 </div>
