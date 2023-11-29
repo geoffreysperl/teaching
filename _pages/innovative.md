@@ -19,9 +19,20 @@ learning, interdisciplinary projects, connecting learning to communities and
 students’ experiences, photos, student work samples, etc.
 
 <figure>
-  <figcaption>To C's final recording.</figcaption>
+  <figcaption>Listen to C's final recording</figcaption>
   <audio controls src="/media/c.mp3">
-    <a href="/media/cc0-audio/t-rex-roar.mp3"> Download audio </a>
+  </audio>
+</figure>
+
+<figure>
+  <figcaption>Listen to J's final recording</figcaption>
+  <audio controls src="/media/j.mp3">
+  </audio>
+</figure>
+
+<figure>
+  <figcaption>Listen to A's final recording</figcaption>
+  <audio controls src="/media/a.mp3">
   </audio>
 </figure>
 
