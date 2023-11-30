@@ -23,9 +23,9 @@ students’ experiences, photos, student work samples, etc.
     <img src="/images/artifacts/carp/a.jpg" loading="lazy">
     <img src="/images/artifacts/carp/c.jpg" loading="lazy">
     <img src="/images/artifacts/carp/j.jpg" loading="lazy">
-    <audio src="/media/a.mp3" type="audio/mpeg">
-    <audio src="/media/c.mp3" type="audio/mpeg">
-    <audio src="/media/j.mp3" type="audio/mpeg">
+    <audio src="/media/a.mp3" type="audio/mpeg"></audio>
+    <audio src="/media/c.mp3" type="audio/mpeg"></audio>
+    <audio src="/media/j.mp3" type="audio/mpeg"></audio>
   </div>
   <em>Journal Sheets (Left to right: A, C, and J), November 2023</em>
 </div>
