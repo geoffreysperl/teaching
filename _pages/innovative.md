@@ -30,7 +30,7 @@ students’ experiences, photos, student work samples, etc.
 <table>
   <thead>
     <tr>
-      <th colspan="3"></th>
+      <th colspan="3">Examples of the final recordings, November 2023</th>
     </tr>
   </thead>
   <tbody>
@@ -41,8 +41,8 @@ students’ experiences, photos, student work samples, etc.
   </audio>
 </figure></td>
       <td><figure>
-  <figcaption>Listen to A's final recording</figcaption>
-  <audio controls src="/media/a.mp3">
+  <figcaption>Listen to C's final recording</figcaption>
+  <audio controls src="/media/c.mp3">
   </audio>
 </figure></td>
       <td>
@@ -54,23 +54,3 @@ students’ experiences, photos, student work samples, etc.
     </tr>
   </tbody>
 </table>
-
-
-<figure>
-  <figcaption>Listen to A's final recording</figcaption>
-  <audio controls src="/media/a.mp3">
-  </audio>
-</figure>
-
-<figure>
-  <figcaption>Listen to C's final recording</figcaption>
-  <audio controls src="/media/c.mp3">
-  </audio>
-</figure>
-
-<figure>
-  <figcaption>Listen to J's final recording</figcaption>
-  <audio controls src="/media/j.mp3">
-  </audio>
-</figure>
-
