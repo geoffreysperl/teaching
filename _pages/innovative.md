@@ -27,10 +27,11 @@ students’ experiences, photos, student work samples, etc.
   <em>First pages of Journal sheets (A, C, and J from left to right), November 2023</em>
 </div>
 
+<div style="overflow-x:auto;">
 <table>
   <thead>
     <tr>
-      <th colspan="3">Examples of the final recordings, November 2023</th>
+      <th colspan="3">Recording examples, November 2023</th>
     </tr>
   </thead>
   <tbody>
@@ -54,3 +55,4 @@ students’ experiences, photos, student work samples, etc.
     </tr>
   </tbody>
 </table>
+</div>
