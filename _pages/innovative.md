@@ -23,24 +23,22 @@ students’ experiences, photos, student work samples, etc.
     <img src="/images/artifacts/carp/a.jpg" loading="lazy">
     <img src="/images/artifacts/carp/c.jpg" loading="lazy">
     <img src="/images/artifacts/carp/j.jpg" loading="lazy">
+    <audio src="/media/a.mp3" type="audio/mpeg">
+    <audio src="/media/c.mp3" type="audio/mpeg">
+    <audio src="/media/j.mp3" type="audio/mpeg">
   </div>
-  <em>Journal Sheets (Left to right: A, C, and J)</em>
+  <em>Journal Sheets (Left to right: A, C, and J), November 2023</em>
 </div>
 
-<figure>
-  <figcaption>Listen to C's final recording</figcaption>
-  <audio controls src="/media/c.mp3">
-  </audio>
-</figure>
+<audio>
+<source src="/media/a.mp3" type="audio/mpeg">
+</audio>
 
-<figure>
-  <figcaption>Listen to J's final recording</figcaption>
-  <audio controls src="/media/j.mp3">
-  </audio>
-</figure>
+<audio>
+<source src="/media/c.mp3" type="audio/mpeg">
+</audio>
 
-<figure>
-  <figcaption>Listen to A's final recording</figcaption>
-  <audio controls src="/media/a.mp3">
-  </audio>
-</figure>
+<audio>
+<source src="/media/j.mp3" type="audio/mpeg">
+</audio>
+
