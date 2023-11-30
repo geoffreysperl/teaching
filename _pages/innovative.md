@@ -27,28 +27,6 @@ students’ experiences, photos, student work samples, etc.
   <em>First pages of Journal sheets (A, C, and J from left to right), November 2023</em>
 </div>
 
-
-<div class="table-container">
-  <table>
-    <tr><th>Examples of the final recordings, November 2023</th></tr>
-    <tr><td><figure>
-  <figcaption>Listen to A's final recording</figcaption>
-  <audio controls src="/media/a.mp3">
-  </audio>
-</figure></td><td><figure>
-  <figcaption>Listen to C's final recording</figcaption>
-  <audio controls src="/media/c.mp3">
-  </audio>
-</figure></td><td>Row:1 Cell:3</td><td>Row:1 Cell:4</td><td><figure>
-  <figcaption>Listen to J's final recording</figcaption>
-  <audio controls src="/media/j.mp3">
-  </audio>
-</figure></td></tr>
-</table>
-</div>
-
-
-
 <table>
   <thead>
     <tr>
