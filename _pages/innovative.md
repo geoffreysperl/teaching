@@ -24,8 +24,37 @@ students’ experiences, photos, student work samples, etc.
     <img src="/images/artifacts/carp/c.jpg" loading="lazy">
     <img src="/images/artifacts/carp/j.jpg" loading="lazy">
   </div>
-  <em>Journal Sheets (Left to right: A, C, and J), November 2023</em>
+  <em>First pages of Journal sheets (A, C, and J from left to right), November 2023</em>
 </div>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><figure>
+  <figcaption>Listen to A's final recording</figcaption>
+  <audio controls src="/media/a.mp3">
+  </audio>
+</figure></td>
+      <td><figure>
+  <figcaption>Listen to A's final recording</figcaption>
+  <audio controls src="/media/a.mp3">
+  </audio>
+</figure></td>
+      <td>
+      <figure>
+  <figcaption>Listen to J's final recording</figcaption>
+  <audio controls src="/media/j.mp3">
+  </audio>
+</figure></td>
+    </tr>
+  </tbody>
+</table>
+
 
 <figure>
   <figcaption>Listen to A's final recording</figcaption>
