@@ -21,8 +21,8 @@ I don't track visitors to the site. No Google Analytics, no tracking pixels, no 
 
 ## Teaching Materials
 
-<p xmlns:cc="http://creativecommons.org/ns#" >The <a rel="cc:attributionURL" href="https://teaching.geoffreysperl.com">teaching materials</a> (not the papers!) on this site by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://geoffreysperl.com">me</a> are licensed for non-commercial use with attribution under a Creative Commons <a href="http://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution-NonCommercial 4.0 International</a> license. I do not allow downloads of the linked files in order to deter crawlers. If you need a copy of a file, let me know by clicking below.</p>
+<p xmlns:cc="http://creativecommons.org/ns#" >The <a rel="cc:attributionURL" href="https://teaching.geoffreysperl.com">teaching materials</a> (not any papers unless otherwise noted!) on this site by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://geoffreysperl.com">me</a> are licensed for non-commercial use with attribution under a Creative Commons <a href="http://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution-NonCommercial 4.0 International</a> license. I do not allow downloads of the linked files in order to deter crawlers. If you need a copy of a file, let me know by emailing below.</p>
 
 ## Questions?
 
-<a href="mailto:geoffrey@wayne.edu">Drop me a line</a>. I'll reply as soon as I can.
+<a href="mailto:geoffrey@geoffreysperl.com">Drop me a line</a>. I'll reply as soon as I can.

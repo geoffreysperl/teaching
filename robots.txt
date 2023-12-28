@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /search
+Disallow: /category/
+Disallow: /tag/
+Allow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+Sitemap: https://teaching.geoffreysperl.com/sitemap.xml
