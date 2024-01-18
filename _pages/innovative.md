@@ -56,3 +56,14 @@ students’ experiences, photos, student work samples, etc.
   </tbody>
 </table>
 </div>
+
+
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/artifacts/scrum2020/first-kanban.jpg" loading="lazy">
+    <img src="/images/artifacts/scrum2020/second-kanban.jpg" loading="lazy">
+    <img src="/images/artifacts/scrum2020/third-kanban.jpg" loading="lazy">
+  </div>
+  <em>My sons' kanban board iterations, March 2020</em>
+</div>
