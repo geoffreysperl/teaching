@@ -3,20 +3,10 @@ layout: page
 title: Innovative Practitioner
 description: 
 permalink: /innovative/
-# image: '/images/01-2.jpg'
-# image_caption: 'Photo by [Bruce Dixon](https://unsplash.com/photos/3M9WJQVHzog) on [Unsplash](https://unsplash.com/)'
+# image: ''
+# image_caption: ''
 ---
-## Effective urban educators are Innovative Practitioners who can demonstrate the ability to problem solve, develop ideas, and use creative methods.
-• Effective educators use innovative practices to engage their students and help
-them make connections between content areas. Innovative practitioners
-support students’ critical thinking, moving beyond rote learning to real-world
-connections and applications.
-• Discuss how you are an innovative practitioner and how this informs your
-teaching practice and student learning.
-• Include artifacts of your emerging professional practice that evidence
-innovation, such as use of digital tools for student engagement and deep
-learning, interdisciplinary projects, connecting learning to communities and
-students’ experiences, photos, student work samples, etc.
+When we talk about “innovation,” it’s crucial not to conflate it with “invention” (a mistake seen all too often). “To innovate” means building upon something, introducing new ideas and methods to a foundation that has come before, but it does not create something entirely new. From my experience, many people freeze when they are told to “innovate” and think they are being asked to invent (and, honestly, many of the people asking others to innovate are under the same impression).
 
 <div class="gallery-box">
   <div class="gallery">
@@ -57,7 +47,7 @@ students’ experiences, photos, student work samples, etc.
 </table>
 </div>
 
-
+The first example is thoroughly explained in [a LinkedIn post I wrote in 2020]( https://www.linkedin.com/pulse/kids-home-every-days-sprint-geoffrey-sperl/). In short, I borrowed concepts from an IT project management methodology called “Scrum” in order to keep my own sons on-track during the COVID-19 lockdowns. They were still young in March 2020 (9 and 7), and, with my wife and me working from home, we needed them to manage some of their time themselves.
 
 <div class="gallery-box">
   <div class="gallery">
@@ -65,5 +55,5 @@ students’ experiences, photos, student work samples, etc.
     <img src="/images/artifacts/scrum2020/second-kanban.jpg" loading="lazy">
     <img src="/images/artifacts/scrum2020/third-kanban.jpg" loading="lazy">
   </div>
-  <em>My sons' kanban board iterations, March 2020</em>
+  <em>My sons' Kanban board iterations, March-May 2020</em>
 </div>
