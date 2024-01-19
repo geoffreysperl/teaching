@@ -12,7 +12,7 @@ When discussing being “reflective,” I take a different approach than many. D
 
 I focus on understanding how a lesson has gone, usually through observation, exit tickets, and my own notes. This allows me to review what went well (and what didn’t) when I look back on the lesson in the future.
 
-For example, during the 2023-24 school year (my student teaching cycle), I taught a lesson on [Neil Gaiman's short story "Click-Clack the Rattlebag"](https://www.commonlit.org/en/texts/click-clack-the-rattle-bag) and compared it to [Edgar Allan Poe's "The Cask of Amontillado,"](https://poestories.com/read/amontillado). When I was planning, I decided to have the students handle the reading and response in a single class. Reflecting afterward, I thought I moved too quickly. Surprisingly, the reaction from the students overwhelmingly showed me that they loved the story, enjoyed the assignment, and didn’t seem pressed for time (I will still give more time when I teach it in the future).
+For example, during the 2023-24 school year (my student teaching cycle), I taught a lesson on [Neil Gaiman's short story "Click-Clack the Rattlebag"](https://www.commonlit.org/en/texts/click-clack-the-rattle-bag) and compared it to [Edgar Allan Poe's "The Cask of Amontillado."](https://poestories.com/read/amontillado) When I was planning, I decided to have the students handle the reading and response in a single class. Reflecting afterward, I thought I moved too quickly. Surprisingly, the reaction from the students overwhelmingly showed me that they loved the story, enjoyed the assignment, and didn’t seem pressed for time (I will still give more time when I teach it in the future).
 
 <div class="gallery-box">
   <div class="gallery">
