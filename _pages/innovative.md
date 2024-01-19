@@ -6,6 +6,12 @@ permalink: /innovative/
 # image: ''
 # image_caption: ''
 ---
+# Effective urban educators are innovative practitioners who can demonstrate the ability to solve problems, develop ideas, and use creative methods.
+
+## Effective urban educators are innovative practitioners who can demonstrate the ability to solve problems, develop ideas, and use creative methods.
+
+### Effective urban educators are innovative practitioners who can demonstrate the ability to solve problems, develop ideas, and use creative methods.
+
 When we talk about “innovation,” it’s crucial not to conflate it with “invention” (a mistake seen all too often). “To innovate” means building upon something, introducing new ideas and methods to a foundation that has come before, but it does not create something entirely new. From my experience, many people freeze when they are told to “innovate” and think they are being asked to invent (and, honestly, many of the people asking others to innovate are under the same impression).
 
 <div class="gallery-box">
@@ -47,7 +53,7 @@ When we talk about “innovation,” it’s crucial not to conflate it with “i
 </table>
 </div>
 
-The first example is thoroughly explained in [a LinkedIn post I wrote in 2020]( https://www.linkedin.com/pulse/kids-home-every-days-sprint-geoffrey-sperl/). In short, I borrowed concepts from an IT project management methodology called “Scrum” in order to keep my own sons on-track during the COVID-19 lockdowns. They were still young in March 2020 (9 and 7), and, with my wife and me working from home, we needed them to manage some of their time themselves.
+My last example of being innovative is more thoroughly explained in a [LinkedIn post I wrote in 2020](https://www.linkedin.com/pulse/kids-home-every-days-sprint-geoffrey-sperl/). In short, I borrowed concepts from an IT project management methodology called “Scrum” in order to keep my own sons on-track with their schoolwork during the COVID-19 lockdowns. They were still young in March 2020 (9 and 7), and, with my wife and me working from home, we needed them to manage some of their time themselves.
 
 <div class="gallery-box">
   <div class="gallery">
