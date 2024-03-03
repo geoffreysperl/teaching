@@ -1,11 +1,5 @@
 # Teaching Portfolio
 
-Repo here, deploys on Netlify.
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/cb84a25b-4975-41c3-a9af-26c2b48cfea9/deploy-status)](https://app.netlify.com/sites/geoffreysperl/deploys)
-
-* * *
-
 ### Demo
 
 Original Akio theme [Live Demo](https://akio-jekyll.netlify.app/), developed by
