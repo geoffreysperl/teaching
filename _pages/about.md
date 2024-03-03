@@ -3,8 +3,8 @@ layout: page
 title: About Me
 description: 
 permalink: /about/
-image: '/images/kneeling.png'
-image_caption: 'Starting a lesson with Honors ELA, 2024'
+# image: ''
+# image_caption: ''
 ---
 I'm a dad, husband, student, educator, storyteller, writer, and podcaster.
 
@@ -20,14 +20,7 @@ By the time 2020 rolled around, I was no longer enjoying computing, and it was t
 
 ## My Teaching Philosophy
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/53530089764_81d308a763_o.png" loading="lazy">
-    <img src="/images/53530098204_dfc3764985_o.png" loading="lazy">
-    <img src="/images/53530205365_efb851419c_o.png" loading="lazy">
-  </div>
-  <em>Various classes, 2024</em>
-</div>
+![Kneeling and talking with a student]({{site.baseurl}}/images/kneeling.png#wide)
 
 My teaching philosophy is twofold.
 
