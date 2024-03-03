@@ -20,7 +20,7 @@ By the time 2020 rolled around, I was no longer enjoying computing, and it was t
 
 ## My Teaching Philosophy
 
-![Kneeling and talking with a student]({{site.baseurl}}/images/kneeling.png#wide)
+![Kneeling and talking with a student]({{site.baseurl}}/images/kneeling.png)
 
 My teaching philosophy is twofold.
 
