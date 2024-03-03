@@ -3,7 +3,7 @@ layout: page
 title: About Me
 description: 
 permalink: /about/
-image: 'images/honors-high-wide.png'
+image: '/images/kneeling.png'
 image_caption: 'Starting a lesson with Honors ELA, 2024'
 ---
 I'm a dad, husband, student, educator, storyteller, writer, and podcaster.
