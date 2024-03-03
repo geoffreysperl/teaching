@@ -3,8 +3,8 @@ layout: page
 title: About Me
 description: 
 permalink: /about/
-# image: ''
-# image_caption: ''
+image: 'images/class/honors-high-wide.png'
+image_caption: 'Starting alesson with Honors ELA, 2024'
 ---
 I'm a dad, husband, student, educator, storyteller, writer, and podcaster.
 
@@ -20,6 +20,15 @@ By the time 2020 rolled around, I was no longer enjoying computing, and it was t
 
 ## My Teaching Philosophy
 
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/square-library.jpg" loading="lazy">
+    <img src="images/class/second-wide.png" loading="lazy">
+    <img src="images/class/honors-tight.png" loading="lazy">
+  </div>
+  <em>Various classes, 2024</em>
+</div>
+
 My teaching philosophy is twofold.
 
 First, I believe all students are unique and need the ability to express themselves in ways that reflect that. We all must work to find ways to engage even the most challenging students and help them discover themselves—and it's reading and writing that are opportune to help with that. 
@@ -27,12 +36,4 @@ First, I believe all students are unique and need the ability to express themsel
 On a more practical level, my business experience will help students understand why these skills are vital and show why (even in the age of generative AI) reading and writing are critical for their future success.
 
 
-<!-- <div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/square-library.jpg" loading="lazy">
-    <img src="/images/square-library-external.jpg" loading="lazy">
-    <img src="/images/square-stonehenge.jpg" loading="lazy">
-  </div>
-  <em>Gallery / England, 2018</em>
-</div> -->
 
