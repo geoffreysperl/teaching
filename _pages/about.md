@@ -6,6 +6,8 @@ permalink: /about/
 # image: ''
 # image_caption: ''
 ---
+![Kneeling and talking with a student]({{site.baseurl}}/images/kneeling.png)
+
 I'm a dad, husband, student, educator, storyteller, writer, and podcaster.
 
 My primary content area is secondary ELA, and I am also working on my ESL endorsement. I am currently in my student teaching cycle at Hamtramck High School in metro Detroit, and I also teach ESL at the college level and have been a long-term substitute at Eastpointe Middle School. Further, I am a technologist with 25 years of experience working with computers.
@@ -19,8 +21,6 @@ Well, a long time ago (after graduating with my first MA), I decided to pursue a
 By the time 2020 rolled around, I was no longer enjoying computing, and it was the COVID-19 pandemic that made me finally question my career and whether I was happy. Once I came to that realization, and after weighing my options, I pivoted back to my original interest—teaching English.
 
 ## My Teaching Philosophy
-
-![Kneeling and talking with a student]({{site.baseurl}}/images/kneeling.png)
 
 My teaching philosophy is twofold.
 
