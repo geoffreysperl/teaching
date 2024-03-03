@@ -3,7 +3,7 @@ layout: page
 title: About Me
 description: 
 permalink: /about/
-image: 'images/class/honors-high-wide.png'
+image: 'images/honors-high-wide.png'
 image_caption: 'Starting alesson with Honors ELA, 2024'
 ---
 I'm a dad, husband, student, educator, storyteller, writer, and podcaster.
@@ -22,9 +22,9 @@ By the time 2020 rolled around, I was no longer enjoying computing, and it was t
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/class/smiling.png" loading="lazy">
-    <img src="images/class/second-wide.png" loading="lazy">
-    <img src="images/class/honors-tight.png" loading="lazy">
+    <img src="images/smiling.png" loading="lazy">
+    <img src="images/second-wide.png" loading="lazy">
+    <img src="images/honors-tight.png" loading="lazy">
   </div>
   <em>Various classes, 2024</em>
 </div>
