@@ -22,9 +22,9 @@ By the time 2020 rolled around, I was no longer enjoying computing, and it was t
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="images/53530089764_81d308a763_o.png" loading="lazy">
-    <img src="images/53530098204_dfc3764985_o.png" loading="lazy">
-    <img src="images/53530205365_efb851419c_o.png" loading="lazy">
+    <img src="/images/53530089764_81d308a763_o.png" loading="lazy">
+    <img src="/images/53530098204_dfc3764985_o.png" loading="lazy">
+    <img src="/images/53530205365_efb851419c_o.png" loading="lazy">
   </div>
   <em>Various classes, 2024</em>
 </div>
