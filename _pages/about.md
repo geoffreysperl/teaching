@@ -22,7 +22,7 @@ By the time 2020 rolled around, I was no longer enjoying computing, and it was t
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/square-library.jpg" loading="lazy">
+    <img src="/images/class/smiling.png" loading="lazy">
     <img src="images/class/second-wide.png" loading="lazy">
     <img src="images/class/honors-tight.png" loading="lazy">
   </div>
