@@ -6,6 +6,8 @@ permalink: /equitable/
 # image: ''
 # image_caption: ''
 ---
+![Walking through an assignment on the smartboard with the students]({{site.baseurl}}/images/talking.png)
+
 ## Effective urban educators are committed to equity for diverse learners.
 
 • Students bring a richness of diverse languages, cultures, gender identities,
