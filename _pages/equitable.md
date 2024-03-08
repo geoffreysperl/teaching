@@ -6,7 +6,13 @@ permalink: /equitable/
 # image: ''
 # image_caption: ''
 ---
-![Walking through an assignment on the smartboard with the students]({{site.baseurl}}/images/talking.png)
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/talking-paper-hand.jpg" loading="lazy">
+    <img src="/images/discussing-group-work.jpg" loading="lazy">
+    <img src="/images/talking-three-boys.jpg" loading="lazy">
+  </div>
+</div>
 
 ## Effective urban educators are committed to equity for diverse learners.
 
@@ -17,12 +23,3 @@ informs your teaching practice and student learning.
 • Include artifacts of your emerging professional practice that evidence
 commitment to equity, such as lesson plans and projects, photos, student work
 samples, etc.
-
-<!-- <div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/100.jpg" loading="lazy">
-    <img src="/images/101.jpg" loading="lazy">
-    <img src="/images/102.jpg" loading="lazy">
-  </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div> -->

@@ -25,7 +25,7 @@ I don't track visitors to the site—no Google Analytics, no tracking pixels, no
 
 ### Photos
 
-Most of the photos on the site were taken by my wife. You may not use any of them without written permission by either her or me.
+Most of the photos on the site were taken by my wife. You may not use any of them without written permission by either her or me. Student faces have been blurred when necessary.
 
 ### Anything Else
 
