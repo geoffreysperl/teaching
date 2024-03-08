@@ -6,7 +6,7 @@ permalink: /reflective/
 # image: ''
 # image_caption: ''
 ---
-## Effective urban educators are reflective practitioners who can accurately assess themselves and develop improvement plans.
+### Effective urban educators are reflective practitioners who can accurately assess themselves and develop improvement plans.
 
 When discussing being “reflective,” I take a different approach than many. During my time in IT, one of my responsibilities was continuous improvement. After a service was delivered to a client, my teams and I had to look at what could have been done better and how it could have been done better—on all parts. Being “reflective” isn’t solely about me as the teacher or my lesson. The teacher must use that reflection to understand the students’ needs, and the teacher needs to explain to the students to reflect upon their performance, too.
 

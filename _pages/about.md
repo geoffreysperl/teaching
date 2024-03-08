@@ -14,13 +14,13 @@ My primary content area is secondary ELA, and I am also working on my ESL endors
 
 In addition to finishing my teaching certification, I will complete an MA in Teaching by 2026, and I hold both a BA and MA in English.
 
-## How Did I Get Here?
+### How Did I Get Here?
 
 Well, a long time ago (after graduating with my first MA), I decided to pursue a career in computing (as opposed to a doctorate in English). I enjoyed it for a long time, but I also continued to educate in various ways (integrating knowledge management with support, training users, teaching at the college level, and even guest lecturing in friends' classes). When I started teaching ESL for Wayne County Community in 2019, I began to think about teaching English again. 
 
 By the time 2020 rolled around, I was no longer enjoying computing, and it was the COVID-19 pandemic that made me finally question my career and whether I was happy. Once I came to that realization, and after weighing my options, I pivoted back to my original interest—teaching English.
 
-## My Teaching Philosophy
+### My Teaching Philosophy
 
 My teaching philosophy is twofold.
 

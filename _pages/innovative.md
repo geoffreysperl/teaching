@@ -8,7 +8,7 @@ permalink: /innovative/
 ---
 ![Looking at a student's assignment with her]({{site.baseurl}}/images/looking.png)
 
-## Effective urban educators are innovative practitioners who can demonstrate the ability to solve problems, develop ideas, and use creative methods.
+### Effective urban educators are innovative practitioners who can demonstrate the ability to solve problems, develop ideas, and use creative methods.
 
 When we talk about “innovation,” it’s crucial not to conflate it with “invention” (a mistake seen all too often). “To innovate” means building upon something, introducing new ideas and methods to a foundation that has come before, but it does not create something entirely new. From my experience, many people freeze when told to “innovate” and think they are being asked to invent (and, honestly, many of the people asking others to innovate are under the same impression).
 

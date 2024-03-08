@@ -14,7 +14,7 @@ permalink: /equitable/
   </div>
 </div>
 
-## Effective urban educators are committed to equity for diverse learners.
+### Effective urban educators are committed to equity for diverse learners.
 
 • Students bring a richness of diverse languages, cultures, gender identities,
 socioeconomic statuses, religions, and abilities to the classroom. Discuss how
