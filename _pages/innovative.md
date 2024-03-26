@@ -6,7 +6,13 @@ permalink: /innovative/
 # image: ''
 # image_caption: ''
 ---
-![Looking at a student's assignment with her]({{site.baseurl}}/images/looking.png)
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/looking.png" loading="lazy">
+    <img src="/images/centered.png" loading="lazy">
+    <img src="/images/addressing.png" loading="lazy">
+  </div>
+</div>
 
 ### Effective urban educators are innovative practitioners who can demonstrate the ability to solve problems, develop ideas, and use creative methods.
 
@@ -29,7 +35,7 @@ I was able to utilize that in a lesson on character analysis in ["The Most Dange
 
 After the students produced the Journal sheets, I had them clean up their created narrative and record it. Some recordings were terrific (listen to A, C, and J's below). The results are remarkable; the students had great fun with the assignment, and I had 100% participation in the lesson and its work.
 
-<div style="overflow-x:auto;">
+<div style="overflow-x:visible;">
 <table>
   <thead>
     <tr>
