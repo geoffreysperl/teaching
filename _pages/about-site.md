@@ -14,7 +14,7 @@ This website is protected by copyright. The code sits in a my private repository
 
 #### Privacy
 
-I don't track visitors to the site—no Google Analytics, no tracking pixels, no cookies, no Facebook or Instagram or a certain someone's boutique social network. This is just a website that pushes pixels to your eyes and asks for nothing but your attention in return.
+I don't track visitors to the site—no Google Analytics, no tracking pixels, no cookies, no Facebook or Instagram or a certain someone's boutique social network. The YouTube video on the front page does is even set to not set a cookie. This is just a website that pushes pixels to your eyes and asks for nothing but your attention in return.
 
 ### Permissions
 
