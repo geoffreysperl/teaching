@@ -36,7 +36,7 @@ I was able to utilize that in a lesson on character analysis in ["The Most Dange
 After the students produced the Journal sheets, I had them clean up their created narrative and record it. Some recordings were terrific (listen to A, C, and J's below). The results are remarkable; the students had great fun with the assignment, and I had 100% participation in the lesson and its work.
 
 <div style="overflow-x:visible;">
-<table  style="margin:auto">
+<table  style="margin:auto" align="center">
   <thead>
     <tr>
       <th colspan="3">Recording examples, November 2023</th>
