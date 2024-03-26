@@ -131,8 +131,8 @@
     height: 100%;
     margin-top: 32px;
     margin-left: -32px;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.02);
-    background-color: var(--background-alt-color);
+    border-radius: $global-radius;
+    background-color: var(--primary-color);
     opacity: .3;
     filter: blur(20px);
   }
