@@ -33,15 +33,6 @@ I was able to utilize that in a lesson on character analysis in ["The Most Dange
   <em>First pages of Journal sheets (A, C, and J from left to right), November 2023</em>
 </div>
 
-<div class="gallery-box">
-  <div class="gallery">
-    <audio controls src="/media/a.mp3">
-    <audio controls src="/media/c.mp3">
-    <audio controls src="/media/j.mp3">
-  </div>
-  <em>Listen to A, C, and J's final recordings (left to right), November 2023</em>
-</div>
-
 After the students produced the Journal sheets, I had them clean up their created narrative and record it. Some recordings were terrific (listen to A, C, and J's below). The results are remarkable; the students had great fun with the assignment, and I had 100% participation in the lesson and its work.
 
 <div style="overflow-x:visible;">
@@ -73,6 +64,11 @@ After the students produced the Journal sheets, I had them clean up their create
   </tbody>
 </table>
 </div>
+
+
+
+
+
 
 <!---
 My last example of being innovative is more thoroughly explained in a [LinkedIn post I wrote in 2020](https://www.linkedin.com/pulse/kids-home-every-days-sprint-geoffrey-sperl/). In short, I borrowed concepts from an IT project management methodology called “Scrum” to keep my sons on track with their schoolwork during the COVID-19 lockdowns. They were still young in March 2020 (9 and 7), and with my wife and me working from home, we needed them to manage some of their time themselves. As seen below, the boys wrote each class (or larger projects) down on sticky notes or (later) dry-erase magnets. Each day during breakfast, I would sit down with them and discuss what would be moved from their "parking lot" to the "to-do" column. For each thing they started, they would move the item to the "doing" column and then to "done" when they were finished. This gave us all a quick visual to see where they were at any given moment. Also, it’s important to note that working with my sons during the pandemic prompted me to return to college and get my teaching certificate.
