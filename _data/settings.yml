@@ -29,5 +29,5 @@ menu__settings:
 hero:
   enable: true
   hero__title: Hi! I'm Geoffrey.
-  hero__description: I'm a dad, husband, student, educator, storyteller, writer, and podcaster. My primary focus is secondary ELA, and I’m also pursuing an ESL endorsement. Currently, I’m finishing my student teaching cycle in 9th-grade ELA at Hamtramck High School, and I teach ESL at the college level. I believe in student-centered learning, where each student’s uniqueness is celebrated. Fostering curiosity is essential—I encourage students to explore, question, and discover. Reading and writing remain vital skills for future success——even in the age of generative AI.
+  hero__description: I'm a dad, husband, student, educator, storyteller, writer, and podcaster. My primary focus is secondary ELA, and I’m also pursuing an ESL endorsement. Currently, I’m finishing my student teaching cycle in 9th-grade ELA at Hamtramck High School, and I teach ESL at the college level. I believe in student-centered learning, where each student’s uniqueness is celebrated. Fostering curiosity is essential——I encourage students to explore, question, and discover. Reading and writing remain vital skills for future success——even in the age of generative AI.
   hero__image: "/images/geoffrey-sperl.jpg"
