@@ -58,7 +58,6 @@ After the students produced the Journal sheets, I had them clean up their create
     </tr>
   </tbody>
 </table>
-<em>First pages of Journal sheets (A, C, and J from left to right), November 2023</em>
 </div>
 
 
