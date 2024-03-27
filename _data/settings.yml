@@ -29,5 +29,5 @@ menu__settings:
 hero:
   enable: true
   hero__title: Hi! I'm Geoffrey.
-  hero__description: I'm an aspiring secondary ELA and ESL educator with a passion for teaching and learning. To read more about me, click "About Me" above. To contact me, click "Email Me" above.
+  hero__description: I'm an emerging secondary ELA and ESL educator with a passion for teaching and learning. To read more about me, click "About Me" above. To get in touch, click "Contact Me" above.
   hero__image: "/images/geoffrey-sperl.jpg"
