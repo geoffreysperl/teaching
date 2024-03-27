@@ -9,8 +9,6 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - title: 'About Me'
-      url: '/about/'
     - title: 'Effective Urban Educator'
       submenu:
       - url: '/reflective/'
