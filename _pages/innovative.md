@@ -37,32 +37,28 @@ After the students produced the Journal sheets, I had them clean up their create
 
 <div class="gallery-box">
 <table  align="center">
-  <thead>
-    <tr>
-      <th colspan="3">Recording examples, November 2023</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
       <td><figure>
-  <figcaption>Listen to A's final recording</figcaption>
+  <figcaption>A's recording</figcaption>
   <audio controls src="/media/a.mp3">
   </audio>
 </figure></td>
       <td><figure>
-  <figcaption>Listen to C's final recording</figcaption>
+  <figcaption>C's recording</figcaption>
   <audio controls src="/media/c.mp3">
   </audio>
 </figure></td>
       <td>
       <figure>
-  <figcaption>Listen to J's final recording</figcaption>
+  <figcaption>J's recording</figcaption>
   <audio controls src="/media/j.mp3">
   </audio>
 </figure></td>
     </tr>
   </tbody>
 </table>
+<em>First pages of Journal sheets (A, C, and J from left to right), November 2023</em>
 </div>
 
 
