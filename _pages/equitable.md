@@ -16,11 +16,11 @@ permalink: /equitable/
 
 ### Effective urban educators are committed to equity for diverse learners.
 
-Throughout my teaching journey, I’ve had the privilege of engaging with students from diverse backgrounds across the metro Detroit area——tutoring students from the Bloomfield and Birmingham area, teaching ESL to adult learners at Wayne Country Community, serving as a long-term substitute at Eastpointe Middle School (EMS), student teaching at Hamtramck High School (HHS), and being actively involved as a parent in Grosse Pointe Public Schools——and I’ve witnessed firsthand the richness that those students bring to the classroom.
+Throughout my teaching journey, I’ve had the privilege of engaging with students from diverse backgrounds across the metro Detroit area. From tutoring students in Bloomfield and Birmingham to teaching ESL to adult learners at Wayne County Community (WCCCD), I’ve witnessed firsthand the rich diversity that our students bring to the classroom.
 
-When I inherited the 6th-grade geography curriculum mid-year at EMS, I saw an opportunity to engage students on their terms. I started them off after the New Year with a unit on the cultural history of metro Detroit, working to engage their knowledge of the area with its multicultural heritage. By connecting our local cultures to broader cultures and geographical concepts, I fostered meaningful discussions and increased student engagement. We then explored the rest of North America, and then the world, fostering curiosity and understanding. 
+When I inherited the 6th-grade geography curriculum mid-year at Eastpointe Middle School (EMS), I saw an opportunity to engage students on their terms. Starting after the New Year, I designed a unit focused on the cultural history of metro Detroit. By connecting our local cultures to broader global contexts, I fostered meaningful discussions and increased student engagement. We then explored Central America and the rest of the world, nurturing curiosity about how those cultures connect to those of us in metro Detroit.
 
-To address assessment challenges and encourage deeper learning, I designed a creative assessment task inspired by Marvel's *Black Panther* movies, in which explored the cultural and geographical connections across Africa. This project, tailored to the students' interests, resulted in improved scores and completion rates. To do this, we took a week at the end of the first semester to perform a gallery walk through the EMS Media Center.
+Recognizing that traditional assessments didn’t resonate well with my students, I crafted a creative assessment inspired by Marvel’s *Black Panther* movies. This project delved into the cultural and geographical connections across Africa. Through a gallery walk in the EMS Media Center, tailored to the students’ interests and their connection to the movie characters, we achieved improved scores and deeper learning.
 
 <div class="gallery-box">
   <div class="gallery">
@@ -28,10 +28,12 @@ To address assessment challenges and encourage deeper learning, I designed a cre
     <img src="/images/artifacts/wakanda/wakanda-gallery-walk-collection-2.jpg" loading="lazy">
     <img src="/images/artifacts/wakanda/wakanda-gallery-walk-collection-4.jpg" loading="lazy">
   </div>
-  <em>Wakanda and Africa Gallery Walk, January 2023</em>
+  <em>Wakanda Gallery Walk, January 2023</em>
 </div>
 
-Our final project for the year was a family ethnography (no artifacts are provided since these were private stories), where the students had to interview their families and determine where they came from. Most of the students 
+Our year-end project involved family ethnographies. Students interviewed family members (if possible) to explore their origins and heritage. Although some students hesitated initially, they discovered that discussing family history with parents was a rewarding experience. By year-end, most students had crafted narratives they could share with pride.
+
+Beyond EMS, my journey extends to engaging with both adult learners at WCCCD and students at HHS. These experiences have underscored the critical role of language support. I’ve discovered that creating an inclusive environment demands responsiveness and adaptability. Moreover, working with students under Individualized Education Programs (IEPs) and 504 plans—both at EMS and HHS—has reinforced the need for personalized approaches. By reflecting on their unique needs and adjusting instruction accordingly, I can try to ensure equitable learning opportunities for all.
 
 These experiences have taught me the importance of reflection and responsiveness in teaching. By prioritizing student feedback and adapting instructional methods accordingly, I aim to create inclusive and engaging learning environments that resonate with diverse student populations.
 
