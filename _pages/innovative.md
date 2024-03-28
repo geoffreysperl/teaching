@@ -16,13 +16,13 @@ permalink: /innovative/
 
 ### Effective urban educators are innovative practitioners who can demonstrate the ability to solve problems, develop ideas, and use creative methods.
 
-When discussing “innovation,” it’s crucial not to conflate it with “invention." To "innovate” means building upon something, introducing new ideas and methods to a foundation that have come before, but not necessarily create something entirely new. Innovating on an old idea can breathe new life into old lessons. In addition to innovating on older ideas and concepts, I also find it important to minimize the students' exposure to technology in the classroom——we want to make it serve as a background tool, not the primary means of delivery and engagement (see my "Committed to Equity for Diverse Learners" tab for more).
+As an innovative practitioner, I believe in building upon existing ideas and methods, introducing new concepts to a foundation that has come before. This is not to be confused with "invention," which implies creating something entirely new. My approach to innovation breathes new life into old lessons, making them more engaging and effective for students.
 
-A lesson I delivered in my student teaching cycle during the 2023-24 school year is a strong example of both of these ideas. It was focused on using ideas from tabletop role playing games (TTRPGs) in order to analyze a character in a story. When most people think of those games, they think of *Dungeons & Dragons*. While *D&D* is more popular than it ever has been in its 50-year-history, TTRPGs as a whole have also flourished over the past decade——including the solo TTRPG (one that a single player can play).
+One of my key strategies is to minimize the students' exposure to technology in the classroom, making it serve as a background tool rather than the primary means of delivery and engagement. This approach ensures that students engage with the content more deeply and actively, fostering a more enriching learning environment.
 
-For the lesson, I hacked [*The Last Tea Shop Complete*](https://springvillager.itch.io/last-tea-shop-complete), a solo TTRPG where the player interviews souls between limbo and the afterlife. Following the idea, I decided to make the player an author writing a story and interviewing a "potential." The interview would then tell the author which character in the story the potential becomes.
+A prime example of my innovative teaching practice is the lesson I delivered during my student teaching cycle in the 2023-24 school year. This lesson was focused on using ideas from tabletop role-playing games (TTRPGs) to analyze characters in a story. When most people think of those games, they think of *Dungeons & Dragons*. While *D&D* is more popular than it ever has been in its 50-year-history, TTRPGs as a whole have also flourished over the past decade—including the solo TTRPG (one that a single player can play). By hacking a solo TTRPG called [*The Last Tea Shop Complete*](https://springvillager.itch.io/last-tea-shop-complete), I was able to create an engaging and unique approach to character analysis.
 
-I was able to utilize that in a lesson on character analysis in ["The Most Dangerous Game"](https://americanliterature.com/author/richard-connell/short-story/the-most-dangerous-game) by Richard Connell. In the lesson, the students interview one of two potentials, with the potential either becoming Rainsford (the protagonist) or Zaroff (the antagonist). Below, you can examine the Journal sheets from three students (A, C, and J).
+In this lesson, students interviewed one of two "potentials" (a hero or a villain), with the potential either becoming Rainsford (the protagonist) or Zaroff (the antagonist) in Richard Connell's story ["The Most Dangerous Game"](https://americanliterature.com/author/richard-connell/short-story/the-most-dangerous-game). This innovative approach allowed students to explore character analysis in a unique and engaging way. The lesson started with the students playing the game, rolling six-sided dice against randomized tables to determine where their analysis went next, and writing the outcomes on "Journal" sheets. Below, you can examine the Journal sheets from three students (A, C, and J).
 
 <div class="gallery-box">
   <div class="gallery">
@@ -33,7 +33,7 @@ I was able to utilize that in a lesson on character analysis in ["The Most Dange
   <em>First pages of Journal sheets (A, C, and J from left to right), November 2023</em>
 </div>
 
-After the students produced the Journal sheets, I had them clean up their created narrative and record it. Some recordings were terrific (listen to A, C, and J's below). The results are remarkable; the students had great fun with the assignment, and I had 100% participation in the lesson and its work.
+After the students produced the Journal sheets, I had them clean up their created narrative and record it. Some recordings were terrific (listen to A, C, and J's below).
 
 <div class="gallery-box">
 <table  align="center">
@@ -60,6 +60,9 @@ After the students produced the Journal sheets, I had them clean up their create
 </table>
 </div>
 
+The results of this lesson were remarkable, with 100% participation and some very creative audio recordings produced by the students. This experience has reinforced my belief in the power of innovative teaching methods and has inspired me to continue exploring new ways to enhance student learning.
+
+The success of the TTRPG-based character analysis lesson has fueled my passion for creative pedagogy. As I continue on my professional journey, I am dedicated to seeking out new ways to engage students, foster critical thinking, and ignite their curiosity. As I reflect on my growth as an educator, I recognize that innovation is not unlike a path in a TTRPG—one that winds through uncharted territories, fueled by curiosity and a desire to have a lasting effect. 
 
 <!---
 My last example of being innovative is more thoroughly explained in a [LinkedIn post I wrote in 2020](https://www.linkedin.com/pulse/kids-home-every-days-sprint-geoffrey-sperl/). In short, I borrowed concepts from an IT project management methodology called “Scrum” to keep my sons on track with their schoolwork during the COVID-19 lockdowns. They were still young in March 2020 (9 and 7), and with my wife and me working from home, we needed them to manage some of their time themselves. As seen below, the boys wrote each class (or larger projects) down on sticky notes or (later) dry-erase magnets. Each day during breakfast, I would sit down with them and discuss what would be moved from their "parking lot" to the "to-do" column. For each thing they started, they would move the item to the "doing" column and then to "done" when they were finished. This gave us all a quick visual to see where they were at any given moment. Also, it’s important to note that working with my sons during the pandemic prompted me to return to college and get my teaching certificate.
