@@ -14,17 +14,17 @@ This website is protected by copyright. The code sits in a private repository on
 
 #### Privacy
 
-I don't personally track visitors to the site—no Google Analytics, no tracking pixels, no cookies from my end, no Facebook or Instagram or someone's boutique social network. I do use Google Web Fonts, so if you are not blocking trackers then that may track you (you can use a content blocker if you like). This is meant just as a website that pushes pixels to your eyes and asks for nothing but your attention in return.
+I don't personally track visitors to the site—no Google Analytics, no tracking pixels, no cookies from my end, no Facebook or Instagram or someone's boutique social network. I do use Google Web Fonts, so if you are not blocking trackers then that may track you (it should just be content delivery, though), and GitHub Pages uses unpkg.com as a CDN. This is meant just as a website that pushes pixels to your eyes and asks for nothing but your attention in return.
 
 #### Was this my Student Teaching Portfolio?
 
-Yes, this site began as my portfolio during my time as a student teacher at Wayne State University. No, I didn't leave the portfolio as the program's rubric dictated because I didn't like the results. Thus, my menu items have changed, the front page is far less cluttered, and an unnecessary video is trashed. The foundation of the college's desired portfolio is still here, so you are welcome to take inspiration from this site, but I suggest you don't copy it thinking you will fulfill the rubric.
+Yes, this site began as my portfolio during my time as a student teacher at Wayne State University. No, I didn't leave the portfolio as the program's rubric dictated because I didn't like the results. So, you're welcome to take inspiration from this site, but don't copy it thinking you will fulfill the rubric.
 
 ### Permissions
 
 #### Teaching Materials
 
-<p xmlns:cc="http://creativecommons.org/ns#" >Unless otherwise noted, the <a rel="cc:attributionURL" href="https://teaching.geoffreysperl.com">teaching materials</a> (not any linked papers!) on this site by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://geoffreysperl.com">me</a> are licensed for non-commercial use with attribution under a Creative Commons <a href="http://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution-NonCommercial 4.0 International</a> license. I do not allow downloads of the linked files in order to deter crawlers. If you need a copy of a file, let me know by emailing below.</p>
+<p xmlns:cc="http://creativecommons.org/ns#" >Unless otherwise noted, the <a rel="cc:attributionURL" href="https://teaching.geoffreysperl.com">teaching materials</a> (not any linked papers!) on this site by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://geoffreysperl.com">me</a> are licensed for non-commercial use with attribution under a Creative Commons <a href="http://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution-NonCommercial 4.0 International</a> license. I do not allow downloads of the linked files in order to deter crawlers. If you need a copy of a file, <a href="mailto:geoffrey@wayne.edu">let me know</a>.
 
 #### Photos
 
