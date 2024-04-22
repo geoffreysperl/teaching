@@ -16,11 +16,9 @@ This website is protected by copyright. The code sits in a my private repository
 
 I don't personally track visitors to the site—-no Google Analytics, no tracking pixels, no cookies from my end, no Facebook or Instagram or a certain someone's boutique social network (the YouTube video on the front page does is even set to not set a cookie). I do use Google Web Fonts, so if you are not blocking trackers then that may track you (you can use a content blocker if you like). This is meant just as a website that pushes pixels to your eyes and asks for nothing but your attention in return.
 
-<!---
 #### Was this my Student Teaching Portfolio?
 
-Yes, this started off as my student teaching portfolio during my time as a student teacher at Wayne State University. No, I didn't leave the portfolio as the program's rubric dictated because I don't find the end result of that rubric to be useful. Thus, my menu items have changed, the front page is far less cluttered, and that unnecessary video is trashed. The foundation of the college's desired portfolio is still here, so you are welcome to take inspiration from this site, but don't copy it thinking you will fulfill the rubric.
---->
+Yes, this site began as my portfolio during my time as a student teacher at Wayne State University. No, I didn't leave the portfolio as the program's rubric dictated because I didn't find the end result of that rubric to be useful. Thus, my menu items have changed, the front page is far less cluttered, and an unnecessary video is trashed. The foundation of the college's desired portfolio is still here, so you are welcome to take inspiration from this site, but I suggest you don't copy it thinking you will fulfill the rubric.
 
 ### Permissions
 

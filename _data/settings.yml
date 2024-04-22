@@ -7,8 +7,8 @@ author__name: Geoffrey Sperl
 
 menu__settings:
   menu__items:
-    - title: 'Home'
-      url: '/'
+    - title: 'About'
+      url: '/about/'
     - title: 'Effective Urban Educator'
       submenu:
       - url: '/reflective/'
