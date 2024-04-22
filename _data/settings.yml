@@ -16,7 +16,7 @@ menu__settings:
       - url: '/innovative/'
         title: 'Innovative Practitioner'
       - url: '/equitable/'
-        title: 'Committed to Equity for Diverse Learners'
+        title: 'Equitable Practitioner'
     - title: 'Contact Me'
       submenu:
       - url: 'mailto:geoffrey@wayne.edu'

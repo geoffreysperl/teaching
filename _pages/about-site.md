@@ -10,15 +10,15 @@ permalink: /about-site/
 
 #### Website
 
-This website is protected by copyright. The code sits in a my private repository on GitHub, and the site is published with <a href="https://jekyllrb.com/">Jekyll</a> and hosted via GitHub Pages. The git repository is private because it is using the paid theme "Akio" from <a href="https://index.jekyllthemes.io/">Jekyll Themes</a> (crafted & designed by <a href="https://jekyllthemes.io/developers/artem-sheludko">Artem Sheludko</a>). Thus, I cannot open this site up to Creative Commons (but do check out the themes on Jekyll Themes!).
+This website is protected by copyright. The code sits in a private repository on GitHub, and the site is published with <a href="https://jekyllrb.com/">Jekyll</a> and hosted via GitHub Pages. The git repository is private because it is using the paid theme "Akio" from <a href="https://index.jekyllthemes.io/">Jekyll Themes</a> (crafted & designed by <a href="https://jekyllthemes.io/developers/artem-sheludko">Artem Sheludko</a>). Thus, I cannot open this site up to Creative Commons (but do check out the themes on Jekyll Themes!).
 
 #### Privacy
 
-I don't personally track visitors to the site—-no Google Analytics, no tracking pixels, no cookies from my end, no Facebook or Instagram or a certain someone's boutique social network (the YouTube video on the front page does is even set to not set a cookie). I do use Google Web Fonts, so if you are not blocking trackers then that may track you (you can use a content blocker if you like). This is meant just as a website that pushes pixels to your eyes and asks for nothing but your attention in return.
+I don't personally track visitors to the site—no Google Analytics, no tracking pixels, no cookies from my end, no Facebook or Instagram or someone's boutique social network. I do use Google Web Fonts, so if you are not blocking trackers then that may track you (you can use a content blocker if you like). This is meant just as a website that pushes pixels to your eyes and asks for nothing but your attention in return.
 
 #### Was this my Student Teaching Portfolio?
 
-Yes, this site began as my portfolio during my time as a student teacher at Wayne State University. No, I didn't leave the portfolio as the program's rubric dictated because I didn't find the end result of that rubric to be useful. Thus, my menu items have changed, the front page is far less cluttered, and an unnecessary video is trashed. The foundation of the college's desired portfolio is still here, so you are welcome to take inspiration from this site, but I suggest you don't copy it thinking you will fulfill the rubric.
+Yes, this site began as my portfolio during my time as a student teacher at Wayne State University. No, I didn't leave the portfolio as the program's rubric dictated because I didn't like the results. Thus, my menu items have changed, the front page is far less cluttered, and an unnecessary video is trashed. The foundation of the college's desired portfolio is still here, so you are welcome to take inspiration from this site, but I suggest you don't copy it thinking you will fulfill the rubric.
 
 ### Permissions
 
@@ -36,4 +36,4 @@ You're free to work with my text as a starter for your own teaching portfolio bu
 
 ### Questions?
 
-<a href="mailto:geoffrey@geoffreysperl.com">Drop me a line</a>. I'll reply as soon as I can.
+<a href="mailto:geoffrey@wayne.edu">Drop me a line</a> and I'll reply as soon as I can.
