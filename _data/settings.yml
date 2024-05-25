@@ -9,7 +9,7 @@ menu__settings:
   menu__items:
     - title: 'About'
       url: '/about/'
-    - title: 'Effective Urban Educator'
+    - title: 'Effective Educator'
       submenu:
       - url: '/reflective/'
         title: 'Reflective Practitioner'
