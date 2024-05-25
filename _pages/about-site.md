@@ -14,11 +14,11 @@ This website is protected by copyright. The code sits in a private repository on
 
 #### Privacy
 
-I don't personally track visitors to the site—no Google Analytics, no tracking pixels, no cookies from my end, no Facebook or Instagram or someone's boutique social network. I do use Google Web Fonts, so if you are not blocking trackers then that may track you (it should just be content delivery, though), and GitHub Pages uses unpkg.com as a CDN. This is meant just as a website that pushes pixels to your eyes and asks for nothing but your attention in return.
+I don't personally track visitors to the site—no Google Analytics, no tracking pixels, no cookies from my end, no Facebook or Instagram or someone's boutique social network. I do use Google Web Fonts (if you are not blocking trackers then that may track you; it should just be content delivery, though), and GitHub Pages uses unpkg.com as a CDN. <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#data-collection">GitHub also tracks your IP address</a>, but I do not. This is meant just as a website that pushes pixels to your eyes and asks for nothing but your attention in return.
 
 #### Was this my Student Teaching Portfolio?
 
-Yes, this site began as my portfolio during my time as a student teacher at Wayne State University. No, I didn't leave the portfolio as the program's rubric dictated because I didn't like the results. So, you're welcome to take inspiration from this site, but don't copy it thinking you will fulfill the rubric.
+Yes, this site began as my portfolio during my time as a student teacher at Wayne State University. No, I didn't leave the portfolio as the program's rubric dictated because I didn't like the results. So, feel free to take inspiration from this site, but don't copy it thinking you will fulfill the rubric.
 
 ### Permissions
 
