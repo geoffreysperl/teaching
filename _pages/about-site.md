@@ -25,3 +25,7 @@ You can email me (sorry, I don't do much social media). If you <a href="mailto:g
 Most of the photos on the site were taken by my wife. You may not use any of them without written permission by either her or me. Student faces have been blurred when necessary.
 
 You're free to work with my text and layout as a starter for your own teaching portfolio but don't copy it word-for-word (that's plagiarism and you know it.
+
+### Did this work? Or Break?
+
+Just a test to see if I'm breaking or not.
