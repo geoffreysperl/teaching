@@ -6,7 +6,7 @@ permalink: /about-site/
 # image: ''
 # image_caption: ''
 ---
-## The Site
+## The site
 
 ### Was this my teaching portfolio?
 
@@ -28,10 +28,10 @@ I don't personally track visitors to the site—no Google Analytics, no tracking
 
 The photos on the site were taken by my wife or me. You may not use any of them without written permission by either her or me. Student faces have been blurred when necessary.
 
-#### Text and Layout
+#### Text and layout
 
 You're free to work with my text and layout as a starter for your own teaching portfolio but don't copy it word-for-word (that's plagiarism and you know it.
 
-## Other Questions?
+## Other questions?
 
 You can email me (sorry, I don't do much social media). If you <a href="mailto:geoffrey@geoffreysperl.com">drop me a line</a>, I'll reply as soon as I can.
