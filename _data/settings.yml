@@ -9,7 +9,7 @@ menu__settings:
   menu__items:
     - title: 'About'
       url: '/about/'
-    - title: 'Teaching Philosophies'
+    - title: 'Philosophies'
       submenu:
       - url: '/reflective/'
         title: 'Reflective'
