@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Innovative Practitioner
+title: Innovative
 description: 
 permalink: /innovative/
 # image: ''

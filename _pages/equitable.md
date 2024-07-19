@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Committed to Equity for Diverse Learners 
+title: Equitable 
 description: 
 permalink: /equitable/
 # image: ''

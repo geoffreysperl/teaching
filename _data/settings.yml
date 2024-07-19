@@ -9,14 +9,20 @@ menu__settings:
   menu__items:
     - title: 'About'
       url: '/about/'
-    - title: 'Effective Educator'
+    - title: 'Teaching Philosophies'
       submenu:
       - url: '/reflective/'
-        title: 'Reflective Practitioner'
+        title: 'Reflective'
       - url: '/innovative/'
-        title: 'Innovative Practitioner'
+        title: 'Innovative'
       - url: '/equitable/'
-        title: 'Equitable Practitioner'
+        title: 'Equitable'
+    - title: 'Wishlists'
+      submenu:
+      - url: 'https://www.amazon.com/hz/wishlist/ls/30IV6MDWMC02O?ref_=wl_share'
+        title: 'Amazon'
+      - url: 'https://bookshop.org/wishlists/e8d78e322424d0acfc4c2813ffafecbf335b9c57'
+        title: 'Bookshop'
     - title: 'Contact Me'
       submenu:
       - url: 'mailto:geoffrey@wayne.edu'

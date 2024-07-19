@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reflective Practitioner
+title: Reflective
 description: 
 permalink: /reflective/
 # image: ''
