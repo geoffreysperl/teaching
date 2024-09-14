@@ -8,7 +8,7 @@ permalink: /about/
 ---
 I'm a dad, husband, student, educator, storyteller, writer, and podcaster.
 
-My primary focus is secondary ELA with an ESL endorsement, and my aim is to teach in a school with a large multilingual population. Currently, I find myself as a long-term sub teaching summer school at Hamtramck High School in metro Detroit (where I completed my student teaching). Additionally, I teach ESL at the college level and have been a long-term substitute at Eastpointe Middle School. Furthermore, with 25 years of experience in technology, I consider myself a "technologist," and am adept with a great majority of technology used in education and business today (and familiar with most of others).
+My primary focus is secondary ELA with an ESL endorsement. Currently, I find myself teaching ELA and ESL at Hamtramck High School in metro Detroit. Additionally, I teach ESL at the college level and have been a long-term substitute at Eastpointe Middle School. Furthermore, with 25 years of experience in technology, I consider myself a "technologist," and am adept with a great majority of technology used in education and business today (and familiar with most of others).
 
 ### How Did I Get Here?
 
