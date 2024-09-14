@@ -12,7 +12,7 @@ My primary focus is secondary ELA with an ESL endorsement. Currently, I find mys
 
 ### How Did I Get Here?
 
-Once upon a time (after earning my first MA), I veered away from academia, opting for a career in computing rather than pursuing a doctorate in English. It was a path I enjoyed for a while, but life has a way of nudging us back to our true passions. By 2020, I was no longer enjoying computing, and the COVID-19 pandemic prompted me to question my career and happiness. Once I came to that realization, and after weighing my options, I pivoted back to my original interest—teaching English. Currently, I find myself immersed in the student teaching cycle at Hamtramck High School in metro Detroit. Additionally, I teach ESL at the college level and have been a long-term substitute at Eastpointe Middle School.
+Once upon a time (after earning my first MA), I veered away from academia, opting for a career in computing rather than pursuing a doctorate in English. It was a path I enjoyed for a while, but life has a way of nudging us back to our true passions. By 2020, I was no longer enjoying computing, and the COVID-19 pandemic prompted me to question my career and happiness. Once I came to that realization, and after weighing my options, I pivoted back to my original interest—teaching English.
 
 ### My Teaching Philosophy
 
