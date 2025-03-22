@@ -1,12 +1,10 @@
-# _config.yml
-#-------------------------------
 # Collections
 collections:
   pages:
     output: true
     permalink: /:name
 
-# Pages Path
+# Defaults
 defaults:
   - scope:
       path: ""
@@ -20,5 +18,4 @@ defaults:
 
 # SASS configuration
 sass:
-  sass_dir: _sass
   style: compressed
