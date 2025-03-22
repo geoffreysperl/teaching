@@ -449,3 +449,46 @@ body.has-sidebar {
   body { font-size: 16px; }
   .gallery { grid-template-columns: 1fr; }
 }
+
+/* Homepage Styling */
+.homepage-intro {
+  padding: 60px 0 40px;
+}
+
+.homepage-title {
+  font-size: 54px;
+  margin-bottom: 25px;
+  color: var(--heading-font-color);
+}
+
+.homepage-description {
+  font-size: 18px;
+  color: var(--text-alt-color);
+  margin-bottom: 30px;
+}
+
+.homepage-image {
+  border-radius: 16px;
+  overflow: hidden;
+}
+
+.homepage-image img {
+  width: 100%;
+  border-radius: 16px;
+  transition: transform 0.3s ease;
+}
+
+@media (max-width: 768px) {
+  .homepage-intro {
+    padding: 40px 0;
+  }
+  
+  .homepage-title {
+    font-size: 42px;
+    margin-bottom: 20px;
+  }
+  
+  .homepage-image {
+    margin-top: 30px;
+  }
+}
