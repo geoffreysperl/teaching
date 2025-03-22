@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Teaching Philosophy
-description: My approach to education and foundational beliefs about teaching and learning
+title: Philosophy & Approach
+description: My teaching philosophy and methodological approach
 permalink: /philosophy/
 ---
 
@@ -13,70 +13,60 @@ permalink: /philosophy/
   </div>
 </div>
 
-## Philosophy Overview
+## Teaching Philosophy
 
-My teaching philosophy centers on creating learning experiences that honor student individuality while developing practical skills with heart. Drawing from both my extensive technology background and my passion for literature and language, I approach education as a blend of art and science—where evidence-based methods meet creative inspiration.
-
-## Core Beliefs
+My teaching philosophy centers on two fundamental principles:
 
 ### Individuality Matters
 
-Every student enters my classroom as a unique constellation of talents, interests, challenges, and dreams. This fundamental belief shapes my approach in several ways:
+Every student is a unique constellation of talents, dreams, and challenges. I believe in celebrating their individuality through:
 
-- **Differentiated Instruction**: I design learning experiences with multiple entry points and various paths to demonstrate understanding. When teaching literary analysis, for example, I offer options ranging from traditional written analysis to multimedia interpretation or dramatic presentation.
-
-- **Student Voice and Choice**: Learning deepens when students have agency. My Character Analysis Role-Playing (CARP) activities exemplify this approach by allowing students to explore literary characters through their own questions and decisions, creating authentic engagement with texts.
-
-- **Cultural Responsiveness**: I celebrate the diverse backgrounds my students bring to the classroom. My Wakanda Gallery Walk activity demonstrates how connecting academic content to cultural touchpoints that resonate with students can transform engagement and understanding.
-
-- **Safe Expression Spaces**: Many students, particularly English Language Learners, need environments where they can authentically express themselves. I construct these spaces through community-building activities, clear expectations, and modeling respectful dialogue.
+- Creating spaces where even the most reluctant learners can express themselves authentically
+- Designing instruction with multiple entry points and paths to success
+- Connecting content to students' interests and experiences
+- Honoring the diverse backgrounds my students bring to the classroom
 
 ### Practical Skills with Heart
 
-While I value creativity and expression, I also recognize my responsibility to equip students with practical skills they need for academic and life success:
+Drawing from my business background, I emphasize why literacy skills matter in practical contexts:
 
-- **Real-World Application**: Drawing from my business background, I emphasize why literacy skills matter in practical contexts. Students practice persuasive writing by crafting real-world communications, analyze texts by considering real audience responses, and develop speaking skills through authentic presentations.
+- Reading and listening aren't just about decoding words; they're about decoding life
+- Writing and speaking aren't merely academic exercises; they're shaping thoughts into existence
+- Even in an age of generative AI, these fundamental skills remain essential for success
+- Language skills are tools for empowerment, enabling students to navigate and shape their worlds
 
-- **Balancing Tradition and Innovation**: Even in an age of technological disruption, foundational literacy skills remain essential. I balance traditional instruction in reading, writing, and critical thinking with innovative approaches that prepare students for evolving communication landscapes.
+## Teaching Approaches
 
-- **Language as Power**: I teach language not just as a set of rules but as a tool for empowerment. Students in my classroom learn to decode both explicit and implicit messages in texts, recognize rhetorical strategies, and deploy language effectively to achieve their purposes.
+These philosophical principles inform several key approaches in my teaching practice:
 
-- **Metacognitive Awareness**: Beyond content knowledge, I help students develop awareness of their own learning processes. Through regular reflection activities, students build the self-regulation and metacognitive skills essential for lifelong learning.
+### Reflective Practice
 
-## Pedagogical Approaches
+Drawing from my background in IT, where continuous improvement was fundamental, I've developed a structured reflection process that informs my teaching decisions. This reflection extends beyond evaluating lessons to encompass student needs and outcomes.
 
-My teaching practices flow directly from these core beliefs:
+My experience teaching Neil Gaiman's "Click-Clack the Rattlebag" alongside Edgar Allan Poe's "The Cask of Amontillado" illustrates this practice. Despite student enthusiasm, I recognized that I had moved too quickly through the material for many students. This reflection prompted me to develop a more nuanced approach to pacing, particularly for comparative literary analysis.
 
-### Technology as Tool, Not Teacher
+### Innovative Methods
 
-Despite my technology background—or perhaps because of it—I believe in technology as a background tool rather than the primary means of delivery. This approach ensures students engage deeply with content rather than becoming passive digital consumers. I thoughtfully integrate technology when it serves clear learning goals, particularly to support differentiation and accessibility.
+I believe in building upon existing ideas and methods, introducing new concepts to an established foundation. My Character Analysis Role-Playing (CARP) lesson exemplifies this approach. By adapting a solo tabletop roleplaying game called "The Last Tea Shop Complete," I created an engaging approach to character analysis where students interviewed potential literary characters. This innovative method achieved 100% participation and resulted in creative audio recordings from students.
 
-### Story-Centered Learning
+### Equity & Inclusion
 
-Stories are fundamental to human understanding. Whether teaching literature or language skills, I leverage narrative structures to make learning memorable and meaningful. This narrative approach extends beyond literature to help students see connections in history, science, and their own lives.
+My teaching journey across metro Detroit has reinforced my commitment to educational equity. At Eastpointe Middle School, I designed a culturally responsive assessment inspired by Marvel's *Black Panther* films. This Wakanda Gallery Walk connected geographical concepts to students' interests and improved assessment outcomes while deepening cultural understanding.
 
-### Formative Assessment Cycle
+At Hamtramck High School, where I teach a diverse population including many English Language Learners, I continuously adapt instruction to ensure equitable access to content through scaffolding, visual supports, and culturally diverse materials.
 
-I view assessment primarily as a tool for improvement, not just evaluation. Through regular formative assessments, I gather data to adjust instruction, provide targeted feedback, and help students monitor their own progress. This cycle creates responsive teaching that meets students where they are.
+### Data-Driven Decision Making
 
-### Collaborative Learning Communities
+I view assessment as a continuous cycle that informs my teaching practice. Rather than using assessments solely to assign grades, I see them as diagnostic tools that help me understand student learning and tailor instruction to meet diverse needs.
 
-Learning is inherently social. I structure classroom activities to promote meaningful collaboration, where students build knowledge together through discussion, peer feedback, and group projects. These communities mirror the collaborative environments students will encounter in future academic and professional settings.
+I employ a diverse range of assessment tools to gather comprehensive data on student learning, from traditional assessments to performance tasks and project-based evaluations. This data guides my instructional decisions and helps me create targeted interventions when needed.
 
-## In Practice
+### Balanced Technology Integration
 
-This philosophy manifests in my classroom through:
+Despite my extensive technology background, I believe in minimizing students' exposure to technology in the classroom, making it serve as a background tool rather than the primary means of delivery and engagement. This approach ensures that students engage with content more deeply and actively.
 
-- **Active Learning**: Students in my classroom are rarely passive recipients of information. Instead, they analyze, create, debate, perform, and problem-solve.
+My CARP activity exemplifies this balanced approach to technology. The activity begins with analog components (physical dice, handwritten journaling) and incorporates technology strategically (audio recording) only where it genuinely enhances the learning experience.
 
-- **Text Complexity**: I select rich, complex texts that reward deep engagement, scaffolding appropriately to ensure all students can access challenging material.
+## Continuous Growth
 
-- **Multimodal Expression**: Students express understanding through various modes—writing, speaking, visual representation, performance—developing versatile communication skills.
-
-- **Reflective Practice**: Both students and I engage in regular reflection to refine our approaches and deepen understanding.
-
-## Ongoing Growth
-
-My philosophy continues to evolve through formal education, professional development, collaboration with colleagues, and—most importantly—what I learn from my students every day. As I pursue my Master's degree and doctoral studies, I remain committed to bridging research and practice, constantly refining my approach to better serve the unique individuals in my classroom.
-
-In essence, my teaching philosophy embraces both the art and science of education—combining evidence-based practices with the creativity and heart essential to meaningful learning. I strive to create a classroom where rigorous standards coexist with joy in learning, where students develop practical skills while finding their authentic voices, and where every individual is valued for their unique contributions to our learning community.
+My teaching philosophy and approaches continue to evolve through formal education, professional development, collaboration with colleagues, and—most importantly—what I learn from my students every day. As I pursue my Master's degree and doctoral studies, I remain committed to bridging research and practice, constantly refining my approach to better serve the unique individuals in my classroom.

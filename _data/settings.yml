@@ -10,28 +10,14 @@ menu__settings:
   menu__items:
     - title: 'About'
       url: '/about/'
-    - title: 'Teaching Philosophy'
+    - title: 'Teaching'
       submenu:
       - url: '/philosophy/'
-        title: 'Overview'
-      - url: '/reflective/'
-        title: 'Reflective Practice'
-      - url: '/innovative/'
-        title: 'Innovative Approaches'
-      - url: '/equitable/'
-        title: 'Equity & Inclusion'
-    - title: 'Teaching Methods'
-      submenu:
-      - url: '/data-driven/'
-        title: 'Data-Driven Instruction'
-      - url: '/technology/'
-        title: 'Technology Integration'
-    - title: 'Evidence of Impact'
-      submenu:
+        title: 'Philosophy & Approach'
       - url: '/student-work/'
         title: 'Student Work'
-      - url: '/professional-growth/'
-        title: 'Professional Growth'
+      - url: '/research/'
+        title: 'Research & Innovation'
     - title: 'Wishlists'
       submenu:
       - url: 'https://www.amazon.com/hz/wishlist/ls/30IV6MDWMC02O?ref_=wl_share'
