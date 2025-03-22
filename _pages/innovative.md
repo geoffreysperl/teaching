@@ -3,14 +3,12 @@ layout: page
 title: Innovative
 description: 
 permalink: /innovative/
-# image: ''
-# image_caption: ''
 ---
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/looking.png" loading="lazy">
-    <img src="/images/centered.png" loading="lazy">
-    <img src="/images/addressing.png" loading="lazy">
+    <img src="/media/images/looking.png" loading="lazy">
+    <img src="/media/images/centered.png" loading="lazy">
+    <img src="/media/images/addressing.png" loading="lazy">
   </div>
 </div>
 
@@ -28,9 +26,9 @@ In this lesson, students interviewed one of two "potentials" (a hero or a villai
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/artifacts/carp/a.jpg" loading="lazy">
-    <img src="/images/artifacts/carp/c.jpg" loading="lazy">
-    <img src="/images/artifacts/carp/j.jpg" loading="lazy">
+    <img src="/media/images/artifacts/carp/a.jpg" loading="lazy">
+    <img src="/media/images/artifacts/carp/c.jpg" loading="lazy">
+    <img src="/media/images/artifacts/carp/j.jpg" loading="lazy">
   </div>
   <em>First pages of Journal sheets (A, C, and J from left to right), November 2023</em>
 </div>
@@ -43,18 +41,18 @@ After the students produced the Journal sheets, I had them clean up their create
     <tr>
       <td><figure>
   <figcaption>A's recording</figcaption>
-  <audio controls src="/media/a.mp3">
+  <audio controls src="/media/audio/a.mp3">
   </audio>
 </figure></td>
       <td><figure>
   <figcaption>C's recording</figcaption>
-  <audio controls src="/media/c.mp3">
+  <audio controls src="/media/audio/c.mp3">
   </audio>
 </figure></td>
       <td>
       <figure>
   <figcaption>J's recording</figcaption>
-  <audio controls src="/media/j.mp3">
+  <audio controls src="/media/audio/j.mp3">
   </audio>
 </figure></td>
     </tr>
@@ -64,20 +62,4 @@ After the students produced the Journal sheets, I had them clean up their create
 
 The results of this lesson were remarkable, with 100% participation and some very creative audio recordings produced by the students. This experience has reinforced my belief in the power of innovative teaching methods and has inspired me to continue exploring new ways to enhance student learning.
 
-The success of the TTRPG-based character analysis lesson has fueled my passion for creative pedagogy. As I continue on my professional journey, I am dedicated to seeking out new ways to engage students, foster critical thinking, and ignite their curiosity. As I reflect on my growth as an educator, I recognize that innovation is not unlike a path in a TTRPG—one that winds through uncharted territories, fueled by curiosity and a desire to have a lasting effect. 
-
-<!---
-My last example of being innovative is more thoroughly explained in a [LinkedIn post I wrote in 2020](https://www.linkedin.com/pulse/kids-home-every-days-sprint-geoffrey-sperl/). In short, I borrowed concepts from an IT project management methodology called “Scrum” to keep my sons on track with their schoolwork during the COVID-19 lockdowns. They were still young in March 2020 (9 and 7), and with my wife and me working from home, we needed them to manage some of their time themselves. As seen below, the boys wrote each class (or larger projects) down on sticky notes or (later) dry-erase magnets. Each day during breakfast, I would sit down with them and discuss what would be moved from their "parking lot" to the "to-do" column. For each thing they started, they would move the item to the "doing" column and then to "done" when they were finished. This gave us all a quick visual to see where they were at any given moment. Also, it’s important to note that working with my sons during the pandemic prompted me to return to college and get my teaching certificate.
-
-<div class="gallery-box">
-  <div class="gallery">
-   <img src="/images/artifacts/scrum2020/first-kanban.jpg" loading="lazy">
-   <img src="/images/artifacts/scrum2020/second-kanban.jpg" loading="lazy">
-   <img src="/images/artifacts/scrum2020/third-kanban.jpg" loading="lazy">
-  </div>
-  <em>My sons' Kanban board iterations, March-May 2020</em>
-</div>
-
-How will I use this in a classroom? I hope to explore that in 2024.
---->
-
+The success of the TTRPG-based character analysis lesson has fueled my passion for creative pedagogy. As I continue on my professional journey, I am dedicated to seeking out new ways to engage students, foster critical thinking, and ignite their curiosity. As I reflect on my growth as an educator, I recognize that innovation is not unlike a path in a TTRPG—one that winds through uncharted territories, fueled by curiosity and a desire to have a lasting effect.

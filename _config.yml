@@ -1,15 +1,10 @@
+# _config.yml
 #-------------------------------
 # Collections
 collections:
   pages:
     output: true
     permalink: /:name
-  posts:
-    output: false
-    permalink: /blog/:slug
-  works:
-    output: false
-    permalink: /work/:slug
 
 # Pages Path
 defaults:
@@ -22,13 +17,3 @@ defaults:
       type: "pages"
     values:
       layout: "page"
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  - scope:
-      path: ""
-      type: "works"
-    values:
-      layout: "work"
