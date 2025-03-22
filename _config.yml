@@ -1,27 +1,15 @@
 #-------------------------------
-# General Site Settings
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://teaching.geoffreysperl.com" # the base hostname & protocol for your site, e.g. http://example.com
-
-
-#-------------------------------
-# Build Settings
-markdown: kramdown
-permalink: /:title
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-
-paginate: 5
-paginate_path: "/blog/page/:num"
-
-
-#-------------------------------
 # Collections
 collections:
   pages:
     output: true
     permalink: /:name
+  posts:
+    output: false
+    permalink: /blog/:slug
+  works:
+    output: false
+    permalink: /work/:slug
 
 # Pages Path
 defaults:
@@ -34,7 +22,13 @@ defaults:
       type: "pages"
     values:
       layout: "page"
-
-sass:
-  sass_dir: _sass
-  style: compressed
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "works"
+    values:
+      layout: "work"
