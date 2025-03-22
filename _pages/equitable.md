@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Equitable 
-description: 
+title: Equity & Inclusion
+description: My commitment to creating equitable learning environments
 permalink: /equitable/
 ---
+
 <div class="gallery-box">
   <div class="gallery">
     <img src="/media/images/talking-paper-hand.jpg" loading="lazy">
@@ -12,27 +13,43 @@ permalink: /equitable/
   </div>
 </div>
 
-### Effective urban educators are committed to equity for diverse learners.
+## Equity in Education
 
-My teaching journey has been enriched by engaging with students from diverse backgrounds across the metro Detroit area. From tutoring students in Bloomfield and Birmingham to teaching ESL to adult learners at Wayne County Community (WCCCD) to teaching at Eastpointe Middle School (EMS) and Hamtramck High School (HHS) and to being an active parent in the Grosse Pointe school system, I've witnessed firsthand the rich diversity that our students bring to the classroom. This experience has instilled in me a deep commitment to equity for diverse learners and communities. I firmly believe that every student, regardless of their background, deserves an equal opportunity to learn and grow.
+Effective urban educators are committed to equity for diverse learners. My teaching journey across metro Detroit—from tutoring in Bloomfield and Birmingham to teaching ESL at Wayne County Community College to serving students at Eastpointe Middle School and Hamtramck High School—has reinforced my commitment to educational equity and shaped my approach to inclusive teaching.
 
-This commitment to equity informs my teaching practice in several ways. At EMS, I inherited the 6th-grade geography curriculum mid-year and saw an opportunity to engage students on their terms. To do so, I designed a unit focused on the cultural history of metro Detroit, which connected our local cultures to broader global contexts. This approach allowed for meaningful discussions and increased student engagement. It also allowed me to cater to the unique needs and interests of the student population at EMS.
+## Core Equity Principles
 
-Reflection and responsiveness are integral parts of my teaching practice. I prioritize student feedback and adapt my instructional methods accordingly. For instance, I quickly recognized that neither traditional assessments nor the topics on which they were being assessed resonated well with my EMS students. In response, I crafted a creative assessment inspired by Marvel's *Black Panther* movies.
+My commitment to equity is guided by these principles:
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/media/images/artifacts/wakanda/wakanda-gallery-walk-collection-1.jpg" loading="lazy">
-    <img src="/media/images/artifacts/wakanda/wakanda-gallery-walk-collection-2.jpg" loading="lazy">
-    <img src="/media/images/artifacts/wakanda/wakanda-gallery-walk-collection-4.jpg" loading="lazy">
-  </div>
-  <em>Wakanda Gallery Walk, January 2023</em>
-</div>
+1. **Cultural Responsiveness** - Honoring the diverse backgrounds, experiences, and knowledge that students bring to the classroom
+2. **Accessible Instruction** - Designing learning experiences that provide multiple entry points and paths to success
+3. **Resource Distribution** - Ensuring all students have access to the materials, support, and opportunities they need
+4. **Student Voice** - Creating spaces where all students can express themselves and contribute meaningfully
+5. **Community Connection** - Building relationships with families and communities to strengthen learning contexts
 
-This project delved into the cultural and geographical connections across Africa, engaged the students in the content (but on their terms), and led to improved scores and deeper learning.
+## Equity in Action: Culturally Responsive Assessment
 
-I view teaching as a powerful tool for social justice, equity, and access for diverse learners and communities. At EMS and HHS, I worked with students under Individualized Education Programs (IEPs) and 504 plans alongside co-teachers and parents. Recognizing the students' unique needs, I adjusted my instruction accordingly to ensure equitable learning opportunities for all. This experience reinforced my belief in the importance of personalized approaches in teaching.
+My Wakanda Gallery Walk exemplifies my approach to equity. Recognizing that traditional assessments weren't resonating with my Eastpointe Middle School students, I designed a culturally responsive assessment drawing on Marvel's *Black Panther* films.
 
-Looking ahead, my professional growth goals are centered around continuing to serve diverse learners and communities effectively. I aim to further develop my teaching skills and create inclusive learning environments that cater to the unique needs of each student. I believe that by doing so, I can contribute to a more equitable and inclusive education system.
+This approach:
+- Connected academic content to cultural references meaningful to students
+- Provided multiple modes of expression (visual, written, oral)
+- Created opportunities for peer learning and feedback
+- Resulted in deeper engagement and improved assessment outcomes
 
-In conclusion, my commitment to equity for diverse learners and communities is deeply ingrained in my teaching practice. Through substantial self-reflection and critical thinking, I continuously strive to improve my teaching methods and create inclusive learning environments that cater to the unique needs of each student.
+By meeting students where they were while maintaining high expectations, this approach made geography content accessible and relevant to all learners.
+
+## Supporting Diverse Learners
+
+My experience working with students under Individualized Education Programs (IEPs) and 504 plans has strengthened my commitment to personalized approaches in teaching. At Hamtramck High School, where I teach a diverse population including many English Language Learners, I continuously adapt instruction to ensure equitable access to content.
+
+Strategies include:
+- Providing scaffolds that support learning without lowering expectations
+- Creating visual and experiential learning opportunities
+- Incorporating culturally diverse texts and perspectives
+- Differentiating instruction based on language proficiency levels
+- Collaborating with families to understand student needs
+
+## Ongoing Commitment
+
+Equity is not a destination but a continuous journey. I regularly reflect on my teaching practice to identify areas where I can further promote equitable outcomes. Through professional development, scholarly research, and ongoing dialogue with students and families, I work to create learning environments where all students can thrive.

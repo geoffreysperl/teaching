@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Reflective
-description: 
+title: Reflective Practice
+description: How reflection drives my growth as an educator
 permalink: /reflective/
 ---
+
 <div class="gallery-box">
   <div class="gallery">
     <img src="/media/images/kneeling.png" loading="lazy">
@@ -12,26 +13,44 @@ permalink: /reflective/
   </div>
 </div>
 
-### Effective urban educators are reflective practitioners who can accurately assess themselves and develop improvement plans.
+## Reflection as Professional Practice
 
-When thinking what it means to be "reflective," my view diverges from the norm. Drawing from my background in IT, where continuous improvement was one of my fundamental responsibilities, I recognize that reflection extends beyond just the teacher's role and their lesson content. Reflection must encompass a holistic understanding—one that also considers students' needs and encourages them to engage in self-reflection. Thus, my reflective practice involves thorough review, drawing insights from various sources: observation, exit tickets, assessments, and personal notes.
+Effective urban educators are reflective practitioners who can accurately assess themselves and develop improvement plans. My approach to reflection extends beyond just evaluating lesson content—it encompasses a holistic understanding that considers student needs and encourages them to engage in self-reflection as well.
 
-As a reflective practitioner, I carefully examine how each lesson unfolds. I revisit the classroom experience, dissecting what went well and what didn't. This retrospective (again borrowing from my IT career) serves as guidance for future improvements. For instance, during the 2023-24 school year, I taught a what turned out to be a captivating lesson on Neil Gaiman's short story "[Click-Clack the Rattlebag](https://www.commonlit.org/en/texts/click-clack-the-rattle-bag)" and compared it to Edgar Allan Poe's "[The Cask of Amontillado](https://poestories.com/read/amontillado)."
+## My Reflection Process
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/media/images/artifacts/click-clack/click-clack-student-1-front.jpg" loading="lazy">
-    <img src="/media/images/artifacts/click-clack/click-clack-student-2-front.jpg" loading="lazy">
-    <img src="/media/images/artifacts/click-clack/click-clack-student-3-front.jpg" loading="lazy">
-    <img src="/media/images/artifacts/click-clack/click-clack-student-1-back.jpg" loading="lazy">
-    <img src="/media/images/artifacts/click-clack/click-clack-student-2-back.jpg" loading="lazy">
-    <img src="/media/images/artifacts/click-clack/click-clack-student-3-back.jpg" loading="lazy">  
-  </div>
-  <em>Comparing "Click-Clack the Rattlebag" to "The Cask of Amontillado," October 2023</em>
-</div>
+Drawing from my background in IT, where continuous improvement was fundamental, I've developed a structured reflection process:
 
-In my planning, I opted for reading and response in a single class session. I thought my rationale was solid—the Gaiman story is only about 10 minutes and the students had already read the Poe. However, upon reflection, I realized that I had moved too swiftly for many students. Surprisingly, student feedback revealed their enthusiasm for the material and the enjoyment they had with the lesson, despite what I saw as haste. Regardless, there were mistakes in the assessment portion of the lesson that made it clear to me I should have spread it over two class sessions. Armed with this knowledge, and having caught myself speeding through a lesson in the second semester, I now approach pacing with greater sensitivity, ensuring a more balanced rhythm.
+1. **Collect diverse feedback** - observation notes, exit tickets, assessments, student comments
+2. **Analyze patterns** - identify what worked, what didn't, and why
+3. **Consider alternatives** - research and imagine different approaches
+4. **Implement changes** - adjust practice based on insights
+5. **Evaluate impact** - assess whether changes improved outcomes
 
-Further, my commitment to student well-being extends beyond the lessons themselves. At Eastpointe Middle School, I heard a common refrain across the 6th grade: student fatigue with what they called "virtual work" (computer-based assignments). As we transitioned back to full face-to-face instruction at the start of the second semester that year, I found many students not only lacked the resources for those assignments—missing chargers for school-assigned Chromebooks, limited Internet access, and other challenges—but they were also tired of staring at the computer screens. Recognizing this as a point of engagement, I made a deliberate shift. Despite the added grading complexity, I quickly transformed all assignments into physical formats. This adjustment not only catered to their needs but also underscores the dynamic nature of reflective practice. Effective teaching, I realized, requires adaptability—a willingness to pivot based on real-time feedback and a recognition of when something isn't working for the students (even if it's working for the teacher).
+## Case Study: Recognizing the Need for Pacing Adjustment
 
-In summary, my reflective journey encompasses both self-assessment and consideration of student experiences, with each step informing the next.
+My experience teaching Neil Gaiman's "Click-Clack the Rattlebag" alongside Edgar Allan Poe's "The Cask of Amontillado" illustrates my reflective practice in action. Despite student enthusiasm, I noticed that I had moved too quickly through the material for many students.
+
+This reflection prompted me to develop a more nuanced approach to pacing, particularly for comparative literary analysis. Now, when planning lessons that involve multiple texts, I:
+
+- Allocate additional time for processing complex comparisons
+- Build in more frequent comprehension checks
+- Provide differentiated supports based on observed needs
+- Create opportunities for recursive engagement with texts
+
+## Adapting to Student Needs
+
+At Eastpointe Middle School, student feedback revealed fatigue with digital assignments. Recognizing this as a point of engagement, I quickly transformed assignments into physical formats despite the added grading complexity.
+
+This experience reinforces a key principle in my reflective practice: effective teaching requires adaptability—a willingness to pivot based on real-time feedback and a recognition of when something isn't working for students, even if it's working for the teacher.
+
+## Ongoing Growth
+
+Reflection isn't a destination but a continuous journey. As I continue to develop as an educator, I'm focusing on:
+
+- Creating more systematic documentation of my reflective practice
+- Involving students more directly in the reflection process
+- Collaborating with colleagues to gain diverse perspectives
+- Connecting classroom observations to research literature
+
+Through ongoing reflection, I aim to build a teaching practice that remains responsive to student needs and grounded in evidence of effectiveness.
