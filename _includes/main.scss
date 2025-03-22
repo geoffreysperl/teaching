@@ -511,3 +511,13 @@ body.has-sidebar {
     max-width: 100%;
   }
 }
+
+/* Make the dropdown menus visible when the 'show' class is applied */
+.dropdown.show .dropdown-menu {
+  display: block;
+}
+
+/* Rotate the arrow when dropdown is open */
+.dropdown.show .dropdown-toggle .arrow-right {
+  transform: rotate(90deg);
+}

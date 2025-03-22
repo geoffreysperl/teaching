@@ -3,11 +3,7 @@
   <div class="sidebar__inner">
     <div class="logo">
       <a class="logo__link" href="{{ site.baseurl }}/">
-      {% if site.data.settings.logo %}
-        <img class="logo__image" src="{{ site.baseurl }}{{ site.data.settings.logo }}" alt="{{ site.data.settings.title }}">
-      {% else %}
-        {{ site.data.settings.title }}
-      {% endif %}
+        <img class="logo__image" src="{{ site.baseurl }}/media/images/logo.png" alt="{{ site.data.settings.title }}">
       </a>
     </div>
 
@@ -16,7 +12,7 @@
         <ul class="nav__list list-reset">
           {% for item in site.data.settings.menu__settings.menu__items %}
             {% if item.submenu %}
-            <li class="nav__item dropdown">
+            <li class="nav__item dropdown {% if item.submenu.size > 0 %}{% for submenu-item in item.submenu %}{% if page.url == submenu-item.url %}show{% endif %}{% endfor %}{% endif %}">
               <span class="nav__link dropdown-toggle">{{ item.title }} <i class="ion ion-ios-arrow-right arrow-right"></i></span>
               <div class="dropdown-menu">
                 {% for submenu-item in item.submenu %}

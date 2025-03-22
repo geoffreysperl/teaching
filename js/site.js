@@ -32,14 +32,22 @@ document.addEventListener("DOMContentLoaded", function() {
     });
   }
   
-  // Make dropdown toggles work
-  if (dropdownToggles) {
-    dropdownToggles.forEach(function(toggle) {
-      toggle.addEventListener("click", function() {
-        this.parentNode.classList.toggle("show");
+// Make dropdown toggles work but preserve open state when navigating
+if (dropdownToggles) {
+  dropdownToggles.forEach(function(toggle) {
+    toggle.addEventListener("click", function(e) {
+      e.preventDefault(); // Prevent default behavior when clicking
+      this.parentNode.classList.toggle("show");
+      
+      // Close other dropdowns when opening a new one (optional)
+      dropdownToggles.forEach(function(otherToggle) {
+        if (otherToggle !== toggle) {
+          otherToggle.parentNode.classList.remove("show");
+        }
       });
     });
-  }
+  });
+}
 
   // Make the scroll-to-top button appear and work
   if (topButton) {
