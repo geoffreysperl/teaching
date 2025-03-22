@@ -17,3 +17,8 @@ defaults:
       type: "pages"
     values:
       layout: "page"
+
+# SASS configuration
+sass:
+  sass_dir: _sass
+  style: compressed
