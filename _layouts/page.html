@@ -4,7 +4,6 @@ layout: default
 
 <div class="container">
   <div class="page-head">
-
     <div class="page-info">
       <h1 class="page-title">{{ page.title | escape }}</h1>
       {% if page.description %}
@@ -20,14 +19,11 @@ layout: default
     <div class="page-image-caption">{{ page.image_caption | markdownify | replace: '<p>' | replace: '</p>' }}</div>
     {% endif %}
     {%endif %}
-
   </div>
 </div>
 
-<!-- begin page -->
 <div class="container animate">
   <article class="page">
     {{ content }}
   </article>
 </div>
-<!-- end page -->
