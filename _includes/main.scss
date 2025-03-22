@@ -457,8 +457,10 @@ body.has-sidebar {
 
 .homepage-title {
   font-size: 54px;
-  margin-bottom: 25px;
+  margin-bottom: 40px;
   color: var(--heading-font-color);
+  text-align: left;
+  width: 100%;
 }
 
 .homepage-description {
@@ -470,6 +472,8 @@ body.has-sidebar {
 .homepage-image {
   border-radius: 16px;
   overflow: hidden;
+  max-width: 85%;  /* This makes the image a bit smaller */
+  margin-left: auto; /* This pushes the image to the right side of its column */
 }
 
 .homepage-image img {
@@ -485,10 +489,12 @@ body.has-sidebar {
   
   .homepage-title {
     font-size: 42px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
   }
   
   .homepage-image {
     margin-top: 30px;
+    max-width: 100%;
+    margin-left: 0;
   }
 }
