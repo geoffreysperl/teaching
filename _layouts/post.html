@@ -4,9 +4,7 @@ layout: default
 
 <div class="container">
   <div class="post-head">
-
     <div class="post-info">
-
       {% if page.tags.size >= 1 %}
         <div class="post-tags">
           {% for tag in page.tags %}
@@ -63,7 +61,6 @@ layout: default
           </div>
         </div>
       </div>
-
     </div>
 
     {%if page.image %}
@@ -74,7 +71,6 @@ layout: default
     <div class="post-image-caption">{{ page.image_caption | markdownify | replace: '<p>' | replace: '</p>' }}</div>
     {% endif %}
     {%endif %}
-
   </div>
 </div>
 
@@ -122,10 +118,12 @@ layout: default
   </div>
 </div>
 
+<!-- This is the important change - creating empty versions of required includes -->
 {% if site.data.settings.disqus.disqus__identifier and site.data.settings.disqus.enable == true %}
 <div class="container animate">
   {% include disqus-comments.html %}
 </div>
 {% endif %}
 
-{% include related-posts.html %}
+<!-- Empty include instead of removing it -->
+<!-- {% include related-posts.html %} -->
