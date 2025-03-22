@@ -50,3 +50,23 @@ document.addEventListener("DOMContentLoaded", function() {
     // Make images load only when they're visible
     new LazyLoad();
   });
+
+  // Sidebar functionality
+document.addEventListener("DOMContentLoaded", function() {
+  var mobileButton = document.querySelector(".mobile-nav-button");
+  var sidebar = document.querySelector(".sidebar");
+  
+  if (mobileButton) {
+    mobileButton.addEventListener("click", function() {
+      sidebar.classList.toggle("is-visible");
+    });
+  }
+  
+  // Make dropdown toggles work
+  var dropdownToggles = document.querySelectorAll(".dropdown-toggle");
+  dropdownToggles.forEach(function(toggle) {
+    toggle.addEventListener("click", function() {
+      this.parentNode.classList.toggle("show");
+    });
+  });
+});
