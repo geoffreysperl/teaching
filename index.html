@@ -8,16 +8,38 @@ description: "ELA and ESL educator focused on student-centered learning and digi
   .page-head {
     display: none;
   }
+  
+  .homepage-container {
+    padding-top: 40px; /* Add padding at the top */
+  }
+  
+  @media (max-width: 768px) {
+    .homepage-container {
+      padding-top: 30px;
+    }
+    
+    .homepage-container div {
+      width: 100% !important;
+      float: none !important;
+      padding-right: 0 !important;
+    }
+    
+    .homepage-container div:last-child {
+      margin-top: 30px;
+    }
+  }
 </style>
 
-<h1 style="font-size: 48px; margin-bottom: 30px;">Hi! I'm Geoffrey.</h1>
+<div class="homepage-container">
+  <h1 style="font-size: 48px; margin-bottom: 30px;">Hi! I'm Geoffrey.</h1>
 
-<div style="overflow: hidden;">
-  <div style="width: 60%; float: left; padding-right: 30px;">
-    <p>I'm a dad, husband, student, educator, storyteller, writer, and podcaster. I teach secondary ELA and ESL. I believe in student-centered learning, where each student's uniqueness is celebrated. Fostering curiosity is essential&mdash;I encourage students to explore, question, and discover. Further, I also emphasize&mdash;especially in the age of generative AI&mdash;how reading and writing remain vital skills for future success.</p>
-  </div>
-  
-  <div style="width: 35%; float: right;">
-    <img src="/media/images/geoffrey-sperl.jpg" alt="Geoffrey Sperl" style="width: 100%; border-radius: 16px;">
+  <div style="overflow: hidden;">
+    <div style="width: 60%; float: left; padding-right: 30px;">
+      <p>I'm a dad, husband, student, educator, storyteller, writer, and podcaster. I teach secondary ELA and ESL. I believe in student-centered learning, where each student's uniqueness is celebrated. Fostering curiosity is essential&mdash;I encourage students to explore, question, and discover. Further, I also emphasize&mdash;especially in the age of generative AI&mdash;how reading and writing remain vital skills for future success.</p>
+    </div>
+    
+    <div style="width: 35%; float: right;">
+      <img src="/media/images/geoffrey-sperl.jpg" alt="Geoffrey Sperl" style="width: 100%; border-radius: 16px;">
+    </div>
   </div>
 </div>
