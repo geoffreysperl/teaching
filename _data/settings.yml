@@ -17,34 +17,11 @@ menu__settings:
         title: 'Innovative'
       - url: '/equitable/'
         title: 'Equitable'
-    - title: 'Wishlists'
-      submenu:
-      - url: 'https://www.amazon.com/hz/wishlist/ls/30IV6MDWMC02O?ref_=wl_share'
-        title: 'Amazon'
-      - url: 'https://bookshop.org/wishlists/e8d78e322424d0acfc4c2813ffafecbf335b9c57'
-        title: 'Bookshop'
-    - title: 'Contact Me'
-      submenu:
-      - url: 'mailto:geoffrey@wayne.edu'
-        title: 'Email'
-      - url: 'https://www.linkedin.com/in/geoffreysperl/'
-        title: 'LinkedIn'
+    - title: 'Contact'
+      url: 'mailto:geoffrey@geoffreysperl.com'
 
 hero:
   enable: true
   hero__title: Hi! I'm Geoffrey.
   hero__description: I'm a dad, husband, student, educator, storyteller, writer, and podcaster. I teach secondary ELA and ESL. I believe in student-centered learning, where each student's uniqueness is celebrated. Fostering curiosity is essential&mdash;I encourage students to explore, question, and discover. Further, I also emphasize&mdash;especially in the age of generative AI&mdash;how reading and writing remain vital skills for future success.
   hero__image: "/images/geoffrey-sperl.jpg"
-
-# Disabled sections
-logos:
-  enable: false
-
-testimonials:
-  enable: false
-
-blog:
-  enable: false
-
-work:
-  enable: false
