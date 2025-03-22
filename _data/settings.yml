@@ -17,8 +17,18 @@ menu__settings:
         title: 'Innovative'
       - url: '/equitable/'
         title: 'Equitable'
-    - title: 'Contact'
-      url: 'mailto:geoffrey@geoffreysperl.com'
+    - title: 'Wishlists'
+      submenu:
+      - url: 'https://www.amazon.com/hz/wishlist/ls/30IV6MDWMC02O?ref_=wl_share'
+        title: 'Amazon'
+      - url: 'https://bookshop.org/wishlists/e8d78e322424d0acfc4c2813ffafecbf335b9c57'
+        title: 'Bookshop'
+    - title: 'Contact Me'
+      submenu:
+      - url: 'mailto:geoffrey@geoffreysperl.com'
+        title: 'Email'
+      - url: 'https://www.linkedin.com/in/geoffreysperl/'
+        title: 'LinkedIn'
 
 hero:
   enable: true
