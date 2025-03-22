@@ -8,22 +8,72 @@ description: "ELA and ESL educator focused on student-centered learning and digi
   .page-head {
     display: none;
   }
+  
+  .homepage-container {
+    max-width: 1000px;
+    margin: 60px auto;
+    padding: 0 20px;
+  }
+  
+  .homepage-title {
+    font-size: 54px;
+    margin-bottom: 40px;
+    color: #080227;
+    text-align: center;
+  }
+  
+  .content-container {
+    display: flex;
+    align-items: flex-start;
+    gap: 40px;
+  }
+  
+  .text-content {
+    flex: 3;
+  }
+  
+  .image-content {
+    flex: 2;
+  }
+  
+  .homepage-image {
+    border-radius: 16px;
+    overflow: hidden;
+    width: 100%;
+  }
+  
+  .homepage-image img {
+    width: 100%;
+    border-radius: 16px;
+  }
+  
+  @media (max-width: 768px) {
+    .homepage-title {
+      font-size: 42px;
+      margin-bottom: 30px;
+    }
+    
+    .content-container {
+      flex-direction: column;
+    }
+    
+    .image-content {
+      margin-top: 30px;
+    }
+  }
 </style>
 
-<div class="container animate">
-  <div class="homepage-intro">
-    <h1 class="homepage-title">Hi! I'm Geoffrey.</h1>
+<div class="homepage-container">
+  <h1 class="homepage-title">Hi! I'm Geoffrey.</h1>
+  
+  <div class="content-container">
+    <div class="text-content">
+      <p>I'm a dad, husband, student, educator, storyteller, writer, and podcaster. I teach secondary ELA and ESL. I believe in student-centered learning, where each student's uniqueness is celebrated. Fostering curiosity is essential&mdash;I encourage students to explore, question, and discover. Further, I also emphasize&mdash;especially in the age of generative AI&mdash;how reading and writing remain vital skills for future success.</p>
+    </div>
     
-    <div class="row">
-      <div class="col col-7">
-        <div class="homepage-description">
-          <p>I'm a dad, husband, student, educator, storyteller, writer, and podcaster. I teach secondary ELA and ESL. I believe in student-centered learning, where each student's uniqueness is celebrated. Fostering curiosity is essential&mdash;I encourage students to explore, question, and discover. Further, I also emphasize&mdash;especially in the age of generative AI&mdash;how reading and writing remain vital skills for future success.</p>
-        </div>
-      </div>
-      <div class="col col-5">
-        <div class="homepage-image">
-          <img src="/media/images/geoffrey-sperl.jpg" alt="Geoffrey Sperl">
-        </div>
+    <div class="image-content">
+      <div class="homepage-image">
+        <img src="/media/images/geoffrey-sperl.jpg" alt="Geoffrey Sperl">
       </div>
     </div>
   </div>
