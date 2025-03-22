@@ -17,10 +17,10 @@
           {% for item in site.data.settings.menu__settings.menu__items %}
             {% if item.submenu %}
             <li class="nav__item dropdown">
-              <span class="nav__link dropdown-toggle">{{ item.title }} <i class="ion ion-ios-arrow-down arrow-down"></i></span>
+              <span class="nav__link dropdown-toggle">{{ item.title }} <i class="ion ion-ios-arrow-right arrow-right"></i></span>
               <div class="dropdown-menu">
                 {% for submenu-item in item.submenu %}
-                  <a href="{{ submenu-item.url }}" class="nav__link{% if page.url == submenu-item.url %} active-link{% endif %}">{{submenu-item.title}}</a>
+                  <a href="{{ submenu-item.url }}" class="nav__link submenu-link{% if page.url == submenu-item.url %} active-link{% endif %}">{{submenu-item.title}}</a>
                 {% endfor %}
               </div>
             </li>
@@ -34,11 +34,15 @@
       </div>
     </nav>
 
-    <div class="mobile-nav-button">
-      <div class="hamburger">
-        <div></div>
-      </div>
+    <div class="sidebar-footer">
+      <p>&copy; {{site.time | date: '%Y'}} {{ site.data.settings.author__name }}</p>
     </div>
   </div>
 </aside>
+
+<div class="mobile-nav-button">
+  <div class="hamburger">
+    <div></div>
+  </div>
+</div>
 <!-- end sidebar -->

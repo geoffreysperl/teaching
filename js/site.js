@@ -12,61 +12,55 @@
 
 // Wait until the page is fully loaded before doing anything
 document.addEventListener("DOMContentLoaded", function() {
-    'use strict';
-  
-    // Find the important elements on the page
-    var menuButton = document.querySelector(".hamburger");
-    var mobileMenu = document.querySelector(".main-nav");
-    var topButton = document.querySelector(".top");
-  
-    // Make the menu button work when clicked
-    if (menuButton) {
-      menuButton.addEventListener("click", function() {
-        menuButton.classList.toggle("is-open");
-        mobileMenu.classList.toggle("is-visible");
-      });
-    }
-  
-    // Make the scroll-to-top button appear and work
-    if (topButton) {
-      // Show the button when scrolled down
-      window.addEventListener("scroll", function() {
-        if (window.scrollY > window.innerHeight) {
-          topButton.classList.add("is-active");
-        } else {
-          topButton.classList.remove("is-active");
-        }
-      });
-  
-      // Scroll to top when clicked
-      topButton.addEventListener("click", function() {
-        window.scrollTo({
-          top: 0,
-          behavior: "smooth"
-        });
-      });
-    }
-  
-    // Make images load only when they're visible
-    new LazyLoad();
-  });
+  'use strict';
 
-  // Sidebar functionality
-document.addEventListener("DOMContentLoaded", function() {
-  var mobileButton = document.querySelector(".mobile-nav-button");
+  // Find the important elements on the page
+  var menuButton = document.querySelector(".mobile-nav-button");
+  var hamburger = document.querySelector(".hamburger");
   var sidebar = document.querySelector(".sidebar");
+  var topButton = document.querySelector(".top");
+  var dropdownToggles = document.querySelectorAll(".dropdown-toggle");
   
-  if (mobileButton) {
-    mobileButton.addEventListener("click", function() {
+  // Add has-sidebar class to body
+  document.body.classList.add("has-sidebar");
+
+  // Make the menu button work when clicked
+  if (menuButton) {
+    menuButton.addEventListener("click", function() {
+      hamburger.classList.toggle("is-open");
       sidebar.classList.toggle("is-visible");
     });
   }
   
   // Make dropdown toggles work
-  var dropdownToggles = document.querySelectorAll(".dropdown-toggle");
-  dropdownToggles.forEach(function(toggle) {
-    toggle.addEventListener("click", function() {
-      this.parentNode.classList.toggle("show");
+  if (dropdownToggles) {
+    dropdownToggles.forEach(function(toggle) {
+      toggle.addEventListener("click", function() {
+        this.parentNode.classList.toggle("show");
+      });
     });
-  });
+  }
+
+  // Make the scroll-to-top button appear and work
+  if (topButton) {
+    // Show the button when scrolled down
+    window.addEventListener("scroll", function() {
+      if (window.scrollY > window.innerHeight) {
+        topButton.classList.add("is-active");
+      } else {
+        topButton.classList.remove("is-active");
+      }
+    });
+
+    // Scroll to top when clicked
+    topButton.addEventListener("click", function() {
+      window.scrollTo({
+        top: 0,
+        behavior: "smooth"
+      });
+    });
+  }
+
+  // Make images load only when they're visible
+  new LazyLoad();
 });
