@@ -19,21 +19,25 @@ description: "ELA and ESL educator focused on student-centered learning and digi
     font-size: 54px;
     margin-bottom: 40px;
     color: #080227;
-    text-align: left; /* Changed from center to left */
+    text-align: left;
   }
   
   .content-container {
     display: flex;
     align-items: flex-start;
     gap: 40px;
+    flex-wrap: wrap; /* Added to ensure content wraps on smaller screens */
   }
   
   .text-content {
-    flex: 3;
+    flex: 1;
+    min-width: 300px; /* Ensures text has minimum readable width */
+    max-width: 600px; /* Prevents text from stretching too wide */
   }
   
   .image-content {
-    flex: 2;
+    flex: 0 0 auto; /* Don't allow the image to grow or shrink */
+    width: 300px; /* Fixed width for the image container */
   }
   
   .homepage-image {
@@ -48,24 +52,4 @@ description: "ELA and ESL educator focused on student-centered learning and digi
   }
   
   @media (max-width: 768px) {
-    .homepage-title {
-      font-size: 42px;
-      margin-bottom: 30px;
-    }
-    
-    .content-container {
-      flex-direction: column;
-    }
-    
-    .image-content {
-      margin-top: 30px;
-    }
-  }
-</style>
-
-<div class="homepage-container">
-  <h1 class="homepage-title">Hi! I'm Geoffrey.</h1>
-  
-  <div class="content-container">
-    <div class="text-content">
-      <p>I'm a dad, husband, student, educator, storyteller, writer, and podcaster. I teach secondary E
+    .homep
