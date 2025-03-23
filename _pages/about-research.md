@@ -2,7 +2,7 @@
 layout: page
 title: Research & Innovation
 description: My scholarly work and innovative teaching approaches
-permalink: /research/
+permalink: /about/research/
 ---
 
 <div class="gallery-box">
@@ -34,24 +34,12 @@ You can download the game instructions for free on [Teachers Pay Teachers](https
 
 ## Upcoming Presentation
 
-I will be presenting at Chaosium Con 2025 on a panel titled "Chaos(ium) in the Classroom," where I'll be sharing insights from my classroom implementation and research. This presentation will explore:
+I will be presenting on a panel at Chaosium Con 2025 on a panel titled "Chaos(ium) in the Classroom" where I'll be sharing insights from my classroom implementation and research. This presentation will explore:
 
 * Theoretical foundations of game-based learning
 * Practical strategies for implementing TTRPGs in diverse classrooms
 * Assessment approaches for game-based learning activities
 * Connections between gameplay and academic literacy development
-
-## Professional Growth
-
-As I continue to develop as an educator and researcher, I'm focusing on several key areas:
-
-* Completing my thesis research on TTRPGs in education (currently in the writing stage)
-* Expanding my repertoire of culturally responsive teaching strategies
-* Deepening my expertise in supporting English Language Learners
-* Creating instructional resources that balance technology use with analog engagement strategies
-* Planning for doctoral studies to further my research and pedagogical expertise
-
-I maintain active memberships in key professional organizations including the Modern Language Association (MLA) and National Council of Teachers of English (NCTE), which help me stay current with research, pedagogical approaches, and best practices in English Language Arts education.
 
 ## Educational Technology Perspective
 

@@ -1,7 +1,7 @@
 # _data/settings.yml
 title: Geoffrey Sperl
 description: Geoffrey Sperl's Teaching Portfolio
-color_scheme: auto # auto, light, or dark
+color_scheme: light
 
 author: Geoffrey Sperl
 author__name: Geoffrey Sperl
@@ -9,10 +9,12 @@ author__name: Geoffrey Sperl
 menu__settings:
   menu__items:
     - title: 'About'
-      url: '/about/'
-    - title: 'Teaching'
       submenu:
-      - url: '/research/'
+      - url: '/about/'
+        title: 'Overview'
+      - url: '/about/philosophy/'
+        title: 'Teaching Philosophy'
+      - url: '/about/research/'
         title: 'Research & Innovation'
     - title: 'Student Work'
       submenu:
