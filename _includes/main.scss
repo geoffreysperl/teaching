@@ -407,6 +407,110 @@ body.has-sidebar {
   color: var(--white);
 }
 
+/* main.scss structure */
+
+/* Essential Variables */
+:root {
+  /* your variables here */
+}
+
+/* Base Styles */
+*, *::after, *::before { box-sizing: border-box; }
+/* other base styles */
+
+/* Layout */
+.container { /* ... */ }
+/* other layout styles */
+
+/* Header */
+.header { /* ... */ }
+/* other header styles */
+
+/* Hero */
+.hero { /* ... */ }
+/* other hero styles */
+
+/* Gallery */
+.gallery-box { /* ... */ }
+/* other gallery styles */
+
+/* Page */
+.page-head { /* ... */ }
+/* other page styles */
+
+/* Footer */
+.footer { /* ... */ }
+/* other footer styles */
+
+/* Utilities */
+.animate { /* ... */ }
+/* other utility styles */
+
+/* ADD NEW CATEGORY GRID STYLES HERE */
+.categories-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+  margin: 32px 0;
+}
+
+.category-card {
+  background-color: var(--background-alt-color);
+  border-radius: 12px;
+  padding: 24px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.category-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
+}
+
+.category-card h3 {
+  margin-top: 0;
+  margin-bottom: 12px;
+}
+
+.category-card h3 a {
+  color: var(--heading-font-color);
+  text-decoration: none;
+}
+
+.category-card h3 a:hover {
+  color: var(--primary-color);
+}
+
+.category-card p {
+  margin-bottom: 0;
+  font-size: 16px;
+  color: var(--text-alt-color);
+}
+
+/* Mobile styles */
+@media (max-width: 1024px) {
+  /* existing mobile styles */
+  
+  /* Add this within existing media queries or create new ones */
+  .categories-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .gallery { grid-template-columns: repeat(2, 1fr); }
+  /* other existing styles */
+}
+
+@media (max-width: 576px) {
+  body { font-size: 16px; }
+  .gallery { grid-template-columns: 1fr; }
+  /* other existing styles */
+  
+  .categories-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
 /* Mobile styles */
 @media (max-width: 1024px) {
   .hero__title { font-size: 36px; }

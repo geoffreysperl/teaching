@@ -7,10 +7,74 @@ permalink: /404.html
   <div class="row">
     <div class="col col-12">
       <div class="error">
-        <h2 class="error__title">404</h2>
-        <p class="error__text">You broke it.</p>
-        <p><a href="{{site.baseurl}}/" class="button button--primary" style="border: none; color: #fff;">Back to the main page.<i class="ion ion-md-arrow-forward"></i></a></p>
+        <div class="d20-container">
+          <!-- D20 SVG goes here -->
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="200" height="200">
+            <path fill="#d62828" d="M106.75 215.06L1.2 370.95c-3.08 5 .1 11.5 5.93 12.14l208.26 22.07-108.64-190.1zM7.41 315.43L82.7 193.08 6.06 147.1c-2.67-1.6-5.96-1.49-8.51.3C-5.32 149.7-2.64 159.2 7.41 315.43zm18.25 92.34l199.07 92.39c4.1 1.89 9.02 0 11.04-4.19l21.69-44.88c.57-1.19.7-2.56.32-3.84L242.34 288h-65.53c-3.53 0-6.8 2.04-8.3 5.2L155.35 320l-37.56-42.3c-2.08-2.36-5.18-3.52-8.26-3.16l-96.42 16.7c-4.98.86-8.33 5.7-7.58 10.72l22.43 94.08c.8 3.77 4.3 6.38 8.18 6.03l7.53-.51zm72.6-114.74c2.23 2.39 5.55 3.09 8.35 1.76l40.4-18.87c2.81-1.31 4.63-4.18 4.63-7.32V192.5c0-17.08 8.01-33.91 21.39-46.09l17.6-16.07c3.49-3.19 3.58-8.8.16-12.11l-4.19-4.05c-2.45-2.35-6.23-2.64-9.02-.7L97.85 172.31c-2.79 1.94-4.01 5.55-3 8.82l21.4 87.9zm247.8-89.33l-100.06-58.18c-1.7-.99-3.72-.99-5.42 0l-100.06 58.18c-3 1.55-4.02 5.43-2.5 8.36l15.34 29.36c1.38 2.58 4.22 3.9 7.06 3.27l31.28-6.93c3.36-.72 5.76-3.9 5.76-7.36v-33.58c0-5.11 9.07-5.18 9.07-.11V219c0 4.08 3.29 7.38 7.37 7.38h39c4.08 0 7.37-3.3 7.37-7.38v-21.95c.12-5.27 9.07-5.11 9.07.11v33.58c0 3.46 2.4 6.64 5.76 7.36l31.28 6.93c2.84.63 5.68-.686 7.06-3.27l15.34-29.36c1.52-2.934.5-6.81-2.5-8.36z"/>
+          </svg>
+          <div class="dice-number">1</div>
+        </div>
+        <h2 class="error__title">Critical Failure: 404</h2>
+        <p class="error__text">You rolled a 1! The page you seek has vanished into another dimension.</p>
+        <p class="error__subtext">The Dungeon Master suggests you return to the main quest.</p>
+        <p><a href="{{site.baseurl}}/" class="button button--primary">Return to the Main Quest<i class="ion ion-md-arrow-forward"></i></a></p>
       </div>
     </div>
   </div>
 </div>
+
+<style>
+  .error {
+    text-align: center;
+    padding: 40px 0;
+  }
+  
+  .d20-container {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto 20px;
+  }
+  
+  .dice-number {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 60px;
+    font-weight: bold;
+    color: white;
+  }
+  
+  .error__title {
+    font-size: 36px;
+    margin-bottom: 10px;
+  }
+  
+  .error__text {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  
+  .error__subtext {
+    font-size: 16px;
+    margin-bottom: 20px;
+    color: #687385;
+  }
+  
+  .button--primary {
+    background-color: #d62828;
+    border: none;
+    color: #fff;
+    padding: 12px 24px;
+    border-radius: 4px;
+    text-decoration: none;
+    display: inline-block;
+    transition: background-color 0.3s;
+  }
+  
+  .button--primary:hover {
+    background-color: #b21e1e;
+    color: #fff;
+  }
+</style>
