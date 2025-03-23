@@ -13,14 +13,17 @@
           {% for item in site.data.settings.menu__settings.menu__items %}
             {% if item.submenu %}
             <li class="nav__item dropdown {% if item.submenu.size > 0 %}{% for submenu-item in item.submenu %}{% if page.url == submenu-item.url %}show{% endif %}{% endfor %}{% endif %}">
-              <a href="{{ item.url | relative_url }}" class="nav__link dropdown-toggle">{{ item.title }} <i class="ion ion-ios-arrow-right arrow-right"></i></a>
+              <div class="nav-item-container">
+                <a href="{{ item.url | relative_url }}" class="nav__link">{{ item.title }}</a>
+                <span class="dropdown-toggle-icon"><i class="ion ion-ios-arrow-right arrow-right"></i></span>
+              </div>
               <div class="dropdown-menu">
                 {% for submenu-item in item.submenu %}
-                {% if submenu-item.url contains 'http' %}
-                <a href="{{ submenu-item.url }}" class="nav__link submenu-link{% if page.url == submenu-item.url %} active-link{% endif %}" target="_blank" rel="noopener">{{submenu-item.title}}</a>
-              {% else %}
-                <a href="{{ submenu-item.url }}" class="nav__link submenu-link{% if page.url == submenu-item.url %} active-link{% endif %}">{{submenu-item.title}}</a>
-              {% endif %}
+                  {% if submenu-item.url contains 'http' %}
+                    <a href="{{ submenu-item.url }}" class="nav__link submenu-link{% if page.url == submenu-item.url %} active-link{% endif %}" target="_blank" rel="noopener">{{submenu-item.title}}</a>
+                  {% else %}
+                    <a href="{{ submenu-item.url }}" class="nav__link submenu-link{% if page.url == submenu-item.url %} active-link{% endif %}">{{submenu-item.title}}</a>
+                  {% endif %}
                 {% endfor %}
               </div>
             </li>
