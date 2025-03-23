@@ -9,17 +9,15 @@ author__name: Geoffrey Sperl
 menu__settings:
   menu__items:
     - title: 'About'
+      url: '/about/'
       submenu:
-      - url: '/about/'
-        title: 'Overview'
       - url: '/about/philosophy/'
         title: 'Teaching Philosophy'
       - url: '/about/research/'
         title: 'Research & Innovation'
     - title: 'Student Work'
+      url: '/student-work/'
       submenu:
-      - url: '/student-work/'
-        title: 'Overview'
       - url: '/student-work/roleplaying-literacy/'
         title: 'Roleplaying & Literacy'
       - url: '/student-work/visual-thinking/'

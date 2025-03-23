@@ -18,11 +18,6 @@ This section presents selected samples of student work from my classes. These ar
   </div>
   
   <div class="category-card">
-    <h3><a href="/student-work/literary-analysis/">Literary Analysis</a></h3>
-    <p>Assignments that build text analysis skills through comparative work with literary texts.</p>
-  </div>
-  
-  <div class="category-card">
     <h3><a href="/student-work/visual-thinking/">Visual & Analytical Thinking</a></h3>
     <p>Projects that develop visual literacy and analytical skills through creative activities.</p>
   </div>

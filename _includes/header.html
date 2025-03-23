@@ -16,7 +16,11 @@
               <span class="nav__link dropdown-toggle">{{ item.title }} <i class="ion ion-ios-arrow-right arrow-right"></i></span>
               <div class="dropdown-menu">
                 {% for submenu-item in item.submenu %}
-                  <a href="{{ submenu-item.url }}" class="nav__link submenu-link{% if page.url == submenu-item.url %} active-link{% endif %}">{{submenu-item.title}}</a>
+                {% if submenu-item.url contains 'http' %}
+                <a href="{{ submenu-item.url }}" class="nav__link submenu-link{% if page.url == submenu-item.url %} active-link{% endif %}" target="_blank" rel="noopener">{{submenu-item.title}}</a>
+              {% else %}
+                <a href="{{ submenu-item.url }}" class="nav__link submenu-link{% if page.url == submenu-item.url %} active-link{% endif %}">{{submenu-item.title}}</a>
+              {% endif %}
                 {% endfor %}
               </div>
             </li>
