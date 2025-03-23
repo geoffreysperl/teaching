@@ -34,7 +34,7 @@ You can download the game instructions for free on [Teachers Pay Teachers](https
 
 ## Upcoming Presentation
 
-I will be presenting at Chaosium Con 2025 on a panel titled "TTRPGs in Education: Theory, Practice & Play," where I'll be sharing insights from my classroom implementation and research. This presentation will explore:
+I will be presenting at Chaosium Con 2025 on a panel titled "Chaos(ium) in the Classroom," where I'll be sharing insights from my classroom implementation and research. This presentation will explore:
 
 * Theoretical foundations of game-based learning
 * Practical strategies for implementing TTRPGs in diverse classrooms

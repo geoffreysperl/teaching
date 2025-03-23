@@ -1,54 +1,76 @@
 ---
 layout: page
-title: Literary Analysis
-description: Assignments that build text analysis and comparative literature skills
-permalink: /student-work/literary-analysis/
+title: Roleplaying & Literacy
+description: Using tabletop roleplaying game techniques to develop literacy skills
+permalink: /student-work/roleplaying-literacy/
 ---
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/media/images/artifacts/click-clack/click-clack-student-1-front.jpg" loading="lazy">
-    <img src="/media/images/artifacts/click-clack/click-clack-student-2-front.jpg" loading="lazy">
-    <img src="/media/images/artifacts/click-clack/click-clack-student-3-front.jpg" loading="lazy">
+    <img src="/media/images/artifacts/carp/a.jpg" loading="lazy">
+    <img src="/media/images/artifacts/carp/c.jpg" loading="lazy">
+    <img src="/media/images/artifacts/carp/j.jpg" loading="lazy">
   </div>
-  <em>Comparing "Click-Clack the Rattlebag" to "The Cask of Amontillado," October 2023</em>
+  <em>Journal sheets from Character Analysis Role-Playing (CARP), November 2023</em>
 </div>
 
-## Comparative Horror Analysis
+## Character Analysis Role-Playing (CARP)
 
-During the 2023-24 school year, I taught a comparative analysis of Neil Gaiman's contemporary short story "Click-Clack the Rattlebag" and Edgar Allan Poe's classic "The Cask of Amontillado." This lesson allowed students to examine how horror techniques have evolved while recognizing the enduring narrative elements that create suspense and dread across different time periods.
+My research and teaching practice focus on the powerful connection between tabletop roleplaying games (TTRPGs) and literacy development. The Character Analysis Role-Playing (CARP) activity exemplifies this approach, transforming traditional character analysis into an immersive, interactive experience.
 
 ### Learning Objectives
 
-* Compare and contrast texts in different forms or genres (CCSS.ELA-LITERACY.RL.9-10.7)
-* Analyze how authors' use of style and structure creates effects such as suspense or horror (CCSS.ELA-LITERACY.RL.9-10.5)
-* Evaluate how modern authors draw on traditional works (CCSS.ELA-LITERACY.RL.9-10.9)
+* Analyze how particular elements of a story interact (CCSS.ELA-LITERACY.RL.8.3)
+* Analyze how dialogue propels the action and reveals aspects of character (CCSS.ELA-LITERACY.RL.8.3)
+* Engage effectively in collaborative discussions (CCSS.ELA-LITERACY.SL.8.1)
 
 ### Instructional Design
 
-The lesson followed this structure:
-1. Reading of both texts with guided questions
-2. Small group discussions identifying key literary elements
-3. Comparative analysis using a structured worksheet
-4. Written response synthesizing students' analyses
+During a unit on Richard Connell's "The Most Dangerous Game," I developed CARP by adapting a solo tabletop roleplaying game called "The Last Tea Shop Complete." The activity progressed through several phases:
+
+1. **Introduction to TTRPG Mechanics** - Students learned basic roleplaying concepts including character attributes, dice rolling for randomization, and journaling techniques
+
+2. **Independent Gameplay** - Using guided Journal sheets, students conducted interviews with potential heroes or villains who would later become either Rainsford (protagonist) or Zaroff (antagonist)
+
+3. **Audio Recording** - Students transformed their written notes into cohesive character narratives, recording their insights as audio files
+
+4. **Reflection** - Students connected their narrative explorations to the original text, identifying how their roleplaying experience deepened their understanding of character motivations and development
 
 ### Student Work & Outcomes
 
-The sample worksheets show students' detailed analysis of both stories. Students identified and compared:
-* Narrative techniques
-* Development of suspense
-* Use of setting and atmosphere
-* Narrative perspective
-* Character development and motivation
+The Journal sheets (above) display students' progression through the narrative exercise, showing their decision-making process and character development. Below are audio recordings demonstrating how students transformed their written notes into cohesive narratives:
+
+<div class="audio-samples">
+  <div class="audio-sample">
+    <p>Student A's recording</p>
+    <audio controls src="/media/audio/a.mp3" class="responsive-audio"></audio>
+  </div>
+  
+  <div class="audio-sample">
+    <p>Student C's recording</p>
+    <audio controls src="/media/audio/c.mp3" class="responsive-audio"></audio>
+  </div>
+  
+  <div class="audio-sample">
+    <p>Student J's recording</p>
+    <audio controls src="/media/audio/j.mp3" class="responsive-audio"></audio>
+  </div>
+</div>
 
 ### Evidence of Learning
 
-* **Student 1's work** demonstrates sophisticated analysis of narrative perspective, noting how both authors use first-person narration to create unreliable narrators but with different effects.
-* **Student 2's analysis** shows strong understanding of setting as a literary device, comparing Poe's catacombs to Gaiman's dark house and how both create claustrophobic atmospheres.
-* **Student 3's responses** reveal deep engagement with character motivation, particularly in comparing the psychological aspects of both antagonists.
+* **Student A's work** demonstrates sophisticated understanding of character motivation through their interpretation of potential villainous traits, particularly in how they connected decision-making to personality development.
 
-### Assessment & Reflection
+* **Student C's recording** shows exceptional oral storytelling skills and narrative organization, effectively transforming disconnected journal notes into a coherent character study.
 
-Student feedback revealed high engagement with this comparative exercise. Their written analyses showed deeper understanding of literary techniques than previous assessments. However, upon reflection, I realized I had moved too quickly through the material for many students, despite their enthusiasm for the content.
+* **Student J's responses** reveal critical thinking about character psychology and how environment shapes behavior.
 
-This lesson highlighted the importance of pacing in literary analysis. Though student engagement was high, I recognized that spreading the comparison over two class sessions would have allowed for deeper analysis. This experience informed my approach to pacing in subsequent lessons, ensuring I balance enthusiasm for the material with appropriate time for student processing and analysis.
+### Implementation Results
+
+This activity achieved 100% student participation, including from students who typically disengage during traditional text analysis. Students demonstrated deeper understanding of character development than in previous text-based character analysis activities.
+
+The success of CARP reinforces the value of merging traditional literacy instruction with innovative engagement strategies drawn from gaming. By transforming character analysis from a passive, analytical exercise into an active, immersive experience, students develop deeper connections to literary characters and more sophisticated understanding of character development.
+
+### Resource Availability
+
+The CARP resources are freely available for other educators on [Teachers Pay Teachers](https://www.teacherspayteachers.com/Product/Character-Analysis-Roleplaying-CARP-The-Most-Dangerous-Game-11492335).
