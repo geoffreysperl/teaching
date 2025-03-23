@@ -1,39 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
   <loc>https://teaching.geoffreysperl.com/</loc>
-  <lastmod>2024-05-25T03:33:22+00:00</lastmod>
+  <lastmod>2025-03-23T12:00:00+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://teaching.geoffreysperl.com/about/</loc>
-  <lastmod>2024-05-25T03:33:22+00:00</lastmod>
+  <loc>https://teaching.geoffreysperl.com/teaching/</loc>
+  <lastmod>2025-03-23T12:00:00+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://teaching.geoffreysperl.com/teaching/philosophy/</loc>
+  <lastmod>2025-03-23T12:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://teaching.geoffreysperl.com/reflective/</loc>
-  <lastmod>2024-05-25T03:33:22+00:00</lastmod>
+  <loc>https://teaching.geoffreysperl.com/teaching/research/</loc>
+  <lastmod>2025-03-23T12:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://teaching.geoffreysperl.com/innovative/</loc>
-  <lastmod>2024-05-25T03:33:22+00:00</lastmod>
+  <loc>https://teaching.geoffreysperl.com/student-work/</loc>
+  <lastmod>2025-03-23T12:00:00+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://teaching.geoffreysperl.com/student-work/roleplaying-literacy/</loc>
+  <lastmod>2025-03-23T12:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://teaching.geoffreysperl.com/equitable/</loc>
-  <lastmod>2024-05-25T03:33:22+00:00</lastmod>
+  <loc>https://teaching.geoffreysperl.com/student-work/visual-thinking/</loc>
+  <lastmod>2025-03-23T12:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://teaching.geoffreysperl.com/about-site/</loc>
-  <lastmod>2024-05-25T03:33:22+00:00</lastmod>
+  <loc>https://teaching.geoffreysperl.com/student-work/gaming-club/</loc>
+  <lastmod>2025-03-23T12:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
-
-
 </urlset>
