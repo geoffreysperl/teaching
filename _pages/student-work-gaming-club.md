@@ -5,14 +5,10 @@ description: Building literacy, community, and critical thinking through games
 permalink: /student-work/gaming-club/
 ---
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/media/images/fun_day.jpg" loading="lazy">
-  </div>
-  <em>Students enjoying board games during our pre-break "Fun Day," December 2024</em>
+<div style="text-align: center; margin: 30px 0;">
+  <img src="/media/images/fun_day.jpg" alt="Students playing board games" style="max-width: 80%; border-radius: 8px;">
+  <p><em>Students enjoying board games during our pre-break "Fun Day," December 2024</em></p>
 </div>
-
-## Afterschool Gaming Club
 
 In December of 2024, before the winter break, we held a special "fun day" at Hamtramck High School where I organized a board game activity to gauge student interest in gaming. The response was overwhelmingly positive, with students demonstrating enthusiasm for games that challenge their critical thinking, foster communication, and build community.
 
