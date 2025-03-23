@@ -28,4 +28,9 @@ This section presents selected samples of student work from my classes. These ar
   </div>
 </div>
 
+<div class="category-card">
+  <h3><a href="/student-work/gaming-club/">Gaming Club</a></h3>
+  <p>Building literacy and community while developing critical thinking skills through our afterschool strategic board gaming club.</p>
+</div>
+
 Each sample includes context about the learning objectives, my instructional decisions, and reflections on outcomes. Together, they represent my commitment to creating engaging, relevant learning experiences that foster academic growth.
