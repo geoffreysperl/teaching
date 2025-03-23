@@ -227,8 +227,10 @@ body.has-sidebar {
 }
 
 .content {
+  margin-left: var(--sidebar-width);
+  width: calc(100% - var(--sidebar-width));
+  min-height: 100vh;
   padding-top: 40px;
-}
 
 .container,
 .container-big {
@@ -343,7 +345,6 @@ body.has-sidebar {
   border-radius: 16px;
 }
 
-/* Page */
 .page-head {
   max-width: 840px;
   margin: 0 auto 32px;
