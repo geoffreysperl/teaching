@@ -13,7 +13,7 @@
           {% for item in site.data.settings.menu__settings.menu__items %}
             {% if item.submenu %}
             <li class="nav__item dropdown {% if item.submenu.size > 0 %}{% for submenu-item in item.submenu %}{% if page.url == submenu-item.url %}show{% endif %}{% endfor %}{% endif %}">
-              <span class="nav__link dropdown-toggle">{{ item.title }} <i class="ion ion-ios-arrow-right arrow-right"></i></span>
+              <a href="{{ item.url | relative_url }}" class="nav__link dropdown-toggle">{{ item.title }} <i class="ion ion-ios-arrow-right arrow-right"></i></a>
               <div class="dropdown-menu">
                 {% for submenu-item in item.submenu %}
                 {% if submenu-item.url contains 'http' %}
