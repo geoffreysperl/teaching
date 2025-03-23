@@ -12,8 +12,6 @@ menu__settings:
       url: '/about/'
     - title: 'Teaching'
       submenu:
-      - url: '/philosophy/'
-        title: 'Philosophy & Approach'
       - url: '/research/'
         title: 'Research & Innovation'
     - title: 'Student Work'
