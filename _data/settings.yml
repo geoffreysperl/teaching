@@ -8,12 +8,12 @@ author__name: Geoffrey Sperl
 
 menu__settings:
   menu__items:
-    - title: 'About'
-      url: '/about/'
+    - title: 'Teaching'
+      url: '/teaching/'
       submenu:
-      - url: '/about/philosophy/'
+      - url: '/teaching/philosophy/'
         title: 'Teaching Philosophy'
-      - url: '/about/research/'
+      - url: '/teaching/research/'
         title: 'Research & Innovation'
     - title: 'Student Work'
       url: '/student-work/'

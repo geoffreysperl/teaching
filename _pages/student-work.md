@@ -27,3 +27,5 @@ This section presents selected samples of student work from my classes. These ar
     <p>Building literacy, community, and critical thinking through our afterschool gaming club.</p>
   </div>
 </div>
+
+Each sample includes context about the learning objectives, my instructional decisions, and reflections on outcomes. Together, they represent my commitment to creating engaging, relevant learning experiences that foster academic growth.

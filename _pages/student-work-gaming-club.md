@@ -5,6 +5,8 @@ description: Building literacy, community, and critical thinking through games
 permalink: /student-work/gaming-club/
 ---
 
+## Afterschool Gaming Club
+
 <div style="text-align: center; margin: 30px 0;">
   <img src="/media/images/fun_day.jpg" alt="Students playing board games" style="max-width: 80%; border-radius: 8px;">
   <p><em>Students enjoying board games during our pre-break "Fun Day," December 2024</em></p>

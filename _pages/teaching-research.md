@@ -2,7 +2,7 @@
 layout: page
 title: Research & Innovation
 description: My scholarly work and innovative teaching approaches
-permalink: /about/research/
+permalink: /teaching/research/
 ---
 
 <div class="gallery-box">
@@ -34,7 +34,7 @@ You can download the game instructions for free on [Teachers Pay Teachers](https
 
 ## Upcoming Presentation
 
-I will be presenting on a panel at Chaosium Con 2025 on a panel titled "Chaos(ium) in the Classroom" where I'll be sharing insights from my classroom implementation and research. This presentation will explore:
+I will be presenting at Chaosium Con 2025 on a panel titled "Chaos(ium) in the Classroom," where I'll be sharing insights from my classroom implementation and research. This presentation will explore:
 
 * Theoretical foundations of game-based learning
 * Practical strategies for implementing TTRPGs in diverse classrooms

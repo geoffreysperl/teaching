@@ -1,33 +1,23 @@
 ---
 layout: page
-title: Teaching Philosophy
-description: My core beliefs and approach to education
-permalink: /about/philosophy/
+title: My Teaching Approach
+description: An overview of how I approach education and engage students
+permalink: /teaching/
 ---
 
-My teaching philosophy centers on two fundamental principles:
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/media/images/kneeling.png" loading="lazy">
+    <img src="/media/images/discussing-group-work.jpg" loading="lazy">
+    <img src="/media/images/talking-three-boys.jpg" loading="lazy">
+  </div>
+</div>
 
-## Individuality Matters
+## Teaching Approach
 
-Every student is a unique constellation of talents, dreams, and challenges. I believe in celebrating their individuality through:
+My approach to teaching is built on creating meaningful connections—between students and content, between skills and real-world applications, and between classroom learning and students' lives. I believe effective teaching requires both structure and flexibility, providing students with clear expectations while adapting to their unique needs and interests.
 
-- Creating spaces where even the most reluctant learners can express themselves authentically
-- Designing instruction with multiple entry points and paths to success
-- Connecting content to students' interests and experiences
-- Honoring the diverse backgrounds my students bring to the classroom
-
-## Practical Skills with Heart
-
-Drawing from my business background, I emphasize why literacy skills matter in practical contexts:
-
-- Reading and listening aren't just about decoding words; they're about decoding life
-- Writing and speaking aren't merely academic exercises; they're shaping thoughts into existence
-- Even in an age of generative AI, these fundamental skills remain essential for success
-- Language skills are tools for empowerment, enabling students to navigate and shape their worlds
-
-## My Teaching Approaches
-
-These philosophical principles inform several key approaches in my teaching practice:
+## Key Teaching Strategies
 
 ### Reflective Practice
 
@@ -50,3 +40,17 @@ At Hamtramck High School, where I teach a diverse population including many Engl
 Despite my extensive technology background, I believe in minimizing students' exposure to technology in the classroom, making it serve as a background tool rather than the primary means of delivery and engagement. This approach ensures that students engage with content more deeply and actively.
 
 My CARP activity exemplifies this balanced approach to technology. The activity begins with analog components (physical dice, handwritten journaling) and incorporates technology strategically (audio recording) only where it genuinely enhances the learning experience.
+
+## Explore My Teaching Philosophy and Research
+
+<div class="categories-grid">
+  <div class="category-card">
+    <h3><a href="/teaching/philosophy/">Teaching Philosophy</a></h3>
+    <p>The core principles and values that guide my approach to education and student learning.</p>
+  </div>
+  
+  <div class="category-card">
+    <h3><a href="/teaching/research/">Research & Innovation</a></h3>
+    <p>My scholarly work on tabletop roleplaying games and literacy, plus innovative teaching approaches.</p>
+  </div>
+</div>
