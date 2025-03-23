@@ -4,7 +4,7 @@
   --white: #fff;
   --light-gray: #f5f5f5;
   --gray: #e0e0e0;
-  --dark: #080227;
+  --dark: #000000;
   --blue-gray: #687385;
   
   --background-color: var(--white);
@@ -14,13 +14,15 @@
   --heading-font-color: var(--dark);
   --link-color: var(--dark);
   --border-color: var(--gray);
+
+  --primary-font: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
 }
 
 /* Base Styles */
 *, *::after, *::before { box-sizing: border-box; }
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-family: var(--primary-font);
   font-size: 18px;
   line-height: 1.6;
   color: var(--text-color);
@@ -30,7 +32,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-family: var(--primary-font);
   line-height: 1.3;
   color: var(--heading-font-color);
   margin-top: 0;
@@ -38,9 +40,9 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
 }
 
-h1 { font-size: 36px; font-weight: 800; }
-h2 { font-size: 28px; }
-h3 { font-size: 24px; }
+h1 { font-size: 36px; font-weight: 700; }
+h2 { font-size: 28px; font-weight: 600; }
+h3 { font-size: 24px; font-weight: 600; }
 p { margin-bottom: 20px; }
 
 a {
@@ -150,6 +152,7 @@ body.has-sidebar {
 .nav__link {
   display: block;
   padding: 10px 0;
+  font-family: var(--primary-font);
   font-size: 16px;
   font-weight: 600;
   transition: all 0.25s;
