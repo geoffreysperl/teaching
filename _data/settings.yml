@@ -20,8 +20,6 @@ menu__settings:
         title: 'Overview'
       - url: '/student-work/roleplaying-literacy/'
         title: 'Roleplaying & Literacy'
-      - url: '/student-work/literary-analysis/'
-        title: 'Literary Analysis'
       - url: '/student-work/visual-thinking/'
         title: 'Visual & Analytical Thinking'
       - url: '/student-work/gaming-club/'
