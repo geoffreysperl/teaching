@@ -1,6 +1,6 @@
 # _data/settings.yml
 title: Geoffrey Sperl
-description: Geoffrey Sperl's Teaching Portfolio
+description: ELA and ESL educator focused on student-centered learning and digital literacy
 color_scheme: light
 
 author: Geoffrey Sperl
@@ -8,6 +8,8 @@ author__name: Geoffrey Sperl
 
 menu__settings:
   menu__items:
+    - title: 'About Me'
+      url: '/'
     - title: 'Teaching'
       url: '/teaching/'
       submenu:
@@ -24,15 +26,17 @@ menu__settings:
         title: 'Visual & Analytical Thinking'
       - url: '/student-work/gaming-club/'
         title: 'Gaming Club'
-    - title: 'Wishlists'
+    - title: 'Resources'
       submenu:
+      - url: 'https://www.teacherspayteachers.com/Store/Geoffrey-Sperl'
+        title: 'My TpT Store'
       - url: 'https://www.amazon.com/hz/wishlist/ls/30IV6MDWMC02O?ref_=wl_share'
-        title: 'Amazon'
+        title: 'Amazon Wishlist'
       - url: 'https://bookshop.org/wishlists/e8d78e322424d0acfc4c2813ffafecbf335b9c57'
-        title: 'Bookshop'
-    - title: 'Contact Me'
+        title: 'Bookshop Wishlist'
+    - title: 'Contact'
       submenu:
       - url: 'mailto:geoffrey@geoffreysperl.com'
-        title: 'Email'
+        title: 'Email Me'
       - url: 'https://www.linkedin.com/in/geoffreysperl/'
         title: 'LinkedIn'

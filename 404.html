@@ -8,44 +8,12 @@ permalink: /404.html
     <div class="col col-12">
       <div class="error">
         <h2 class="error__title">404! Critical Failure!</h2>
-        <p class="error__text">You rolled a 1! The page you seek has vanished.</p>
-        <p class="error__text">The gamemaster suggests you <a href="{{site.baseurl}}/">return to the main quest</a></p>
+        <p class="error__text">Oops! You rolled a 1 on your navigation check. The page you're looking for seems to have vanished into the ether.</p>
+        <p class="error__text">Your gamemaster suggests you <a href="{{site.baseurl}}/" class="error__link">return to the main quest</a> and try a different path.</p>
+        <div class="error__image">
+          <img src="{{site.baseurl}}/media/images/dice-fail.png" alt="D20 showing a 1">
+        </div>
       </div>
     </div>
   </div>
 </div>
-
-<style>
-  .error {
-    text-align: center;
-    padding: 60px 0;
-  }
-  
-  .error__title {
-    font-size: 42px;
-    margin-bottom: 16px;
-    color: #CD6355;
-  }
-  
-  .error__text {
-    font-size: 20px;
-    margin-bottom: 8px;
-  }
-  
-  .error__subtext {
-    font-size: 18px;
-    margin-bottom: 24px;
-    color: #687385;
-  }
-  
-  .error__link {
-    color: #CD6355;
-    font-size: 18px;
-    text-decoration: underline;
-    transition: color 0.3s;
-  }
-  
-  .error__link:hover {
-    color: #B8574A;
-  }
-</style>
