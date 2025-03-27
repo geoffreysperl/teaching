@@ -1,6 +1,6 @@
 /* ==========================================================================
-   1. ROOT VARIABLES & RESET
-   ========================================================================== */
+    1. ROOT VARIABLES & RESET
+    ========================================================================== */
    :root {
     --primary-color: #CE6455;
     --white: #fff;
@@ -69,7 +69,7 @@
     vertical-align: middle;
   }
   
-  /* ==========================================================================
+/* ==========================================================================
      3. LAYOUT & GRID SYSTEM
      ========================================================================== */
   .container {
@@ -98,7 +98,7 @@
   .col-6 { width: 50%; }
   .col-5 { width: 41.67%; }
   .col-4 { width: 33.33%; }
-  
+
   /* ==========================================================================
      4. SIDEBAR & NAVIGATION
      ========================================================================== */
@@ -370,93 +370,115 @@
     margin: 0 auto 60px;
   }
   
-  /* ==========================================================================
-     6. HOMEPAGE SPECIFIC STYLES
-     ========================================================================== */
-  .homepage-container {
-    padding-top: 40px;
-  }
-  
-  .homepage-title {
-    font-size: 48px;
-    margin-bottom: 30px;
-  }
-  
-  .intro-container {
-    overflow: hidden;
-    margin-bottom: 40px;
-  }
-  
-  .intro-text {
-    width: 60%;
-    float: left;
-    padding-right: 30px;
-  }
-  
-  .intro-image {
-    width: 35%;
-    float: right;
-  }
-  
-  .intro-image img {
-    width: 100%;
-    border-radius: 16px;
-  }
-  
-  /* Homepage alignment adjustment */
-  .homepage-aligned {
-    padding-top: 0; /* Remove default padding */
-  }
-  
-  .homepage-aligned .homepage-title {
-    margin-top: 0; /* Remove top margin */
-    padding-top: 0; /* Remove top padding */
-    line-height: 1.1; /* Tighter line height */
-  }
-  
-  /* Call to Action */
-  .call-to-action {
-    background-color: var(--background-alt-color);
-    border-radius: 16px;
-    padding: 30px;
-    margin: 40px 0;
-    text-align: center;
-  }
-  
-  .call-to-action h2 {
-    margin-top: 0;
-  }
-  
-  .call-to-action-buttons {
-    display: flex;
-    justify-content: center;
-    gap: 20px;
-    margin-top: 20px;
-  }
-  
-  .action-button {
-    display: inline-block;
-    background-color: var(--primary-color);
-    color: white;
-    padding: 12px 24px;
-    border-radius: 8px;
-    font-weight: 600;
-    transition: all 0.3s ease;
-  }
-  
-  .action-button:hover {
-    background-color: #B8574A;
-    transform: translateY(-2px);
-    color: white;
-  }
-  
-  .secondary-button {
-    background-color: var(--text-alt-color);
-  }
-  
-  .secondary-button:hover {
-    background-color: #566274;
-  }
+/* ==========================================================================
+    6. HOMEPAGE SPECIFIC STYLES
+    ========================================================================== */
+.homepage-container {
+  padding-top: 40px;
+}
+
+.homepage-title {
+  font-size: 48px;
+  margin-bottom: 30px;
+}
+
+.intro-container {
+  overflow: hidden;
+  margin-bottom: 40px;
+}
+
+.intro-text {
+  width: 60%;
+  float: left;
+  padding-right: 30px;
+}
+
+.intro-image {
+  width: 35%;
+  float: right;
+}
+
+.intro-image img {
+  width: 100%;
+  border-radius: 16px;
+}
+
+/* Homepage alignment adjustment */
+.homepage-aligned {
+  padding-top: 0;
+}
+
+.homepage-aligned .homepage-title {
+  margin-top: -5px;
+  padding-top: 0;
+  margin-bottom: 30px;
+  line-height: 1.1;
+}
+
+/* Section spacing */
+.homepage-container h2,
+.content h2 {
+  margin-top: 60px;
+  margin-bottom: 25px;
+}
+
+.homepage-container h2:first-of-type {
+  margin-top: 60px;
+}
+
+.homepage-container p,
+.content p {
+  margin-bottom: 20px;
+}
+
+h2 + p:last-of-type {
+  margin-bottom: 0;
+}
+
+/* Call to Action */
+.call-to-action {
+  background-color: var(--background-alt-color);
+  border-radius: 16px;
+  padding: 30px;
+  margin-top: 60px;
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+.call-to-action h2 {
+  margin-top: 0;
+}
+
+.call-to-action-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.action-button {
+  display: inline-block;
+  background-color: var(--primary-color);
+  color: white;
+  padding: 12px 24px;
+  border-radius: 8px;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.action-button:hover {
+  background-color: #B8574A;
+  transform: translateY(-2px);
+  color: white;
+}
+
+.secondary-button {
+  background-color: var(--text-alt-color);
+}
+
+.secondary-button:hover {
+  background-color: #566274;
+}
   
   /* ==========================================================================
      7. ERROR PAGE STYLES
