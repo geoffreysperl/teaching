@@ -28,7 +28,7 @@ During a unit on Richard Connell's "The Most Dangerous Game," I developed CARP b
 <div class="collapsible-container">
   <div class="collapsible-group">
     <div class="collapsible-header" onclick="toggleContent('learningObjectives')">
-      <h4>View Standards for All Grade Levels <span class="toggle-icon">+</span></h4>
+      <h4>Expand All Grade-Level Standards<span class="toggle-icon">+</span></h4>
     </div>
     <div class="collapsible-content" id="learningObjectives">
       <div class="collapsible-container">
@@ -116,7 +116,7 @@ During a unit on Richard Connell's "The Most Dangerous Game," I developed CARP b
 ### Grade-Level Modifications
 <div class="collapsible-group">
   <div class="collapsible-header" onclick="toggleContent('gradeModifications')">
-    <h4>View Modifications for Different Grade Levels <span class="toggle-icon">+</span></h4>
+    <h4>Expand Modification Options for Different Secondary Grade Levels<span class="toggle-icon">+</span></h4>
   </div>
   <div class="collapsible-content" id="gradeModifications">
     <div class="collapsible-group">
@@ -164,7 +164,7 @@ During a unit on Richard Connell's "The Most Dangerous Game," I developed CARP b
 ### Accommodations for Multilingual Learners
 <div class="collapsible-group">
   <div class="collapsible-header" onclick="toggleContent('mllAccommodations')">
-    <h4>View Accommodations for MLLs <span class="toggle-icon">+</span></h4>
+    <h4>Expand MLL Support Strategies<span class="toggle-icon">+</span></h4>
   </div>
   <div class="collapsible-content" id="mllAccommodations">
     <div class="collapsible-group">
