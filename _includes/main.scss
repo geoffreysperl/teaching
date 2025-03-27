@@ -472,3 +472,54 @@ body.has-sidebar {
     grid-template-columns: 1fr;
   }
 }
+
+.student-work-sample {
+  margin-bottom: 40px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  align-items: flex-start;
+}
+
+.journal-image {
+  flex: 1;
+  min-width: 300px;
+}
+
+.journal-image img {
+  width: 100%;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.journal-image em {
+  display: block;
+  margin-top: 8px;
+  font-size: 0.9em;
+  color: #687385;
+  text-align: center;
+}
+
+.audio-analysis {
+  flex: 1;
+  min-width: 300px;
+}
+
+.audio-analysis audio {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.audio-analysis p {
+  margin-top: 0;
+}
+
+@media (max-width: 768px) {
+  .student-work-sample {
+    flex-direction: column;
+  }
+  
+  .journal-image, .audio-analysis {
+    width: 100%;
+  }
+}
