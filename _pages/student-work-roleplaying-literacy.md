@@ -113,99 +113,97 @@ During a unit on Richard Connell's "The Most Dangerous Game," I developed CARP b
 </div>
 
 
-### Learning Modifications and Accommodations
-<div class="collapsible-container">
-  <div class="collapsible-group">
-    <div class="collapsible-header" onclick="toggleContent('learningModifications')">
-      <h4>View All Modifications and Accommodations <span class="toggle-icon">+</span></h4>
-    </div>
-    <div class="collapsible-content" id="learningModifications">
-      <p>This activity can be adapted for different grade levels and student populations:</p>
-
-      <h4>Grade-Level Modifications</h4>
-      <div class="collapsible-container">
-        <div class="collapsible-group">
-          <div class="collapsible-header" onclick="toggleContent('grades68')">
-            <h4>For Grades 6-8 <span class="toggle-icon">+</span></h4>
-          </div>
-          <div class="collapsible-content" id="grades68">
-            <ul>
-              <li>Simplify character attribute categories</li>
-              <li>Provide more structured journal templates</li>
-              <li>Focus on basic character motivation and development</li>
-              <li>Use scaffolded whole-class discussions before independent work</li>
-            </ul>
-          </div>
-        </div>
-        <div class="collapsible-group">
-          <div class="collapsible-header" onclick="toggleContent('grades910adapt')">
-            <h4>For Grades 9-10 <span class="toggle-icon">+</span></h4>
-          </div>
-          <div class="collapsible-content" id="grades910adapt">
-            <ul>
-              <li>Add complexity with layered character motivations</li>
-              <li>Incorporate literary techniques and figurative language analysis</li>
-              <li>Connect character development to thematic elements</li>
-              <li>Focus on nuanced interactions between characters</li>
-            </ul>
-          </div>
-        </div>
-        <div class="collapsible-group">
-          <div class="collapsible-header" onclick="toggleContent('grades1112adapt')">
-            <h4>For Grades 11-12 <span class="toggle-icon">+</span></h4>
-          </div>
-          <div class="collapsible-content" id="grades1112adapt">
-            <ul>
-              <li>Explore deeper psychological aspects of character development</li>
-              <li>Analyze how characters reflect broader societal or philosophical ideas</li>
-              <li>Connect to literary criticism and theory</li>
-              <li>Integrate with analysis of author's stylistic choices</li>
-            </ul>
-          </div>
-        </div>
+### Grade-Level Modifications
+<div class="collapsible-group">
+  <div class="collapsible-header" onclick="toggleContent('gradeModifications')">
+    <h4>View Modifications for Different Grade Levels <span class="toggle-icon">+</span></h4>
+  </div>
+  <div class="collapsible-content" id="gradeModifications">
+    <div class="collapsible-group">
+      <div class="collapsible-header" onclick="toggleContent('grades68')">
+        <h4>For Grades 6-8 <span class="toggle-icon">+</span></h4>
       </div>
+      <div class="collapsible-content" id="grades68">
+        <ul>
+          <li>Simplify character attribute categories</li>
+          <li>Provide more structured journal templates</li>
+          <li>Focus on basic character motivation and development</li>
+          <li>Use scaffolded whole-class discussions before independent work</li>
+        </ul>
+      </div>
+    </div>
+    <div class="collapsible-group">
+      <div class="collapsible-header" onclick="toggleContent('grades910adapt')">
+        <h4>For Grades 9-10 <span class="toggle-icon">+</span></h4>
+      </div>
+      <div class="collapsible-content" id="grades910adapt">
+        <ul>
+          <li>Add complexity with layered character motivations</li>
+          <li>Incorporate literary techniques and figurative language analysis</li>
+          <li>Connect character development to thematic elements</li>
+          <li>Focus on nuanced interactions between characters</li>
+        </ul>
+      </div>
+    </div>
+    <div class="collapsible-group">
+      <div class="collapsible-header" onclick="toggleContent('grades1112adapt')">
+        <h4>For Grades 11-12 <span class="toggle-icon">+</span></h4>
+      </div>
+      <div class="collapsible-content" id="grades1112adapt">
+        <ul>
+          <li>Explore deeper psychological aspects of character development</li>
+          <li>Analyze how characters reflect broader societal or philosophical ideas</li>
+          <li>Connect to literary criticism and theory</li>
+          <li>Integrate with analysis of author's stylistic choices</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
 
-      <h4>Accommodations for Multilingual Learners (MLLs)</h4>
-      <div class="collapsible-container">
-        <div class="collapsible-group">
-          <div class="collapsible-header" onclick="toggleContent('beginnermll')">
-            <h4>Beginner Level MLLs <span class="toggle-icon">+</span></h4>
-          </div>
-          <div class="collapsible-content" id="beginnermll">
-            <ul>
-              <li>Provide visual support with character attribute cards</li>
-              <li>Offer sentence frames for journal responses</li>
-              <li>Allow native language brainstorming before English writing</li>
-              <li>Pair with stronger English speakers for collaborative portions</li>
-            </ul>
-          </div>
-        </div>
-        <div class="collapsible-group">
-          <div class="collapsible-header" onclick="toggleContent('intermediatemll')">
-            <h4>Intermediate Level MLLs <span class="toggle-icon">+</span></h4>
-          </div>
-          <div class="collapsible-content" id="intermediatemll">
-            <ul>
-              <li>Pre-teach key vocabulary related to character analysis</li>
-              <li>Provide guided notes with partial completion</li>
-              <li>Allow extra time for audio recording preparation</li>
-              <li>Offer differentiated rubrics focusing on content over language mechanics</li>
-            </ul>
-          </div>
-        </div>
-        <div class="collapsible-group">
-          <div class="collapsible-header" onclick="toggleContent('advancedmll')">
-            <h4>Advanced Level MLLs <span class="toggle-icon">+</span></h4>
-          </div>
-          <div class="collapsible-content" id="advancedmll">
-            <ul>
-              <li>Focus on academic language development</li>
-              <li>Encourage use of figurative language in character descriptions</li>
-              <li>Provide feedback on language usage alongside content analysis</li>
-              <li>Incorporate cultural comparisons of character archetypes</li>
-            </ul>
-          </div>
-        </div>
+### Accommodations for Multilingual Learners
+<div class="collapsible-group">
+  <div class="collapsible-header" onclick="toggleContent('mllAccommodations')">
+    <h4>View Accommodations for MLLs <span class="toggle-icon">+</span></h4>
+  </div>
+  <div class="collapsible-content" id="mllAccommodations">
+    <div class="collapsible-group">
+      <div class="collapsible-header" onclick="toggleContent('beginnermll')">
+        <h4>Beginner Level MLLs <span class="toggle-icon">+</span></h4>
+      </div>
+      <div class="collapsible-content" id="beginnermll">
+        <ul>
+          <li>Provide visual support with character attribute cards</li>
+          <li>Offer sentence frames for journal responses</li>
+          <li>Allow native language brainstorming before English writing</li>
+          <li>Pair with stronger English speakers for collaborative portions</li>
+        </ul>
+      </div>
+    </div>
+    <div class="collapsible-group">
+      <div class="collapsible-header" onclick="toggleContent('intermediatemll')">
+        <h4>Intermediate Level MLLs <span class="toggle-icon">+</span></h4>
+      </div>
+      <div class="collapsible-content" id="intermediatemll">
+        <ul>
+          <li>Pre-teach key vocabulary related to character analysis</li>
+          <li>Provide guided notes with partial completion</li>
+          <li>Allow extra time for audio recording preparation</li>
+          <li>Offer differentiated rubrics focusing on content over language mechanics</li>
+        </ul>
+      </div>
+    </div>
+    <div class="collapsible-group">
+      <div class="collapsible-header" onclick="toggleContent('advancedmll')">
+        <h4>Advanced Level MLLs <span class="toggle-icon">+</span></h4>
+      </div>
+      <div class="collapsible-content" id="advancedmll">
+        <ul>
+          <li>Focus on academic language development</li>
+          <li>Encourage use of figurative language in character descriptions</li>
+          <li>Provide feedback on language usage alongside content analysis</li>
+          <li>Incorporate cultural comparisons of character archetypes</li>
+        </ul>
       </div>
     </div>
   </div>
