@@ -72,3 +72,26 @@ if (dropdownToggles) {
   // Make images load only when they're visible
   new LazyLoad();
 });
+
+// Collapsible content functionality
+function toggleContent(id) {
+  const content = document.getElementById(id);
+  const parent = content.parentElement;
+  const icon = parent.querySelector('.toggle-icon');
+  
+  if (content.style.display === 'block') {
+    content.style.display = 'none';
+    icon.textContent = '+';
+  } else {
+    content.style.display = 'block';
+    icon.textContent = '−';
+  }
+}
+
+// Initialize all collapsible sections as hidden when the page loads
+document.addEventListener('DOMContentLoaded', function() {
+  const collapsibleContents = document.querySelectorAll('.collapsible-content');
+  collapsibleContents.forEach(function(content) {
+    content.style.display = 'none';
+  });
+});
