@@ -402,6 +402,23 @@
     width: 100%;
     border-radius: 16px;
   }
+
+  .homepage-aligned {
+    padding-top: 0;
+  
+  .homepage-aligned .homepage-title {
+    margin-top: 0;
+    padding-top: 0;
+    line-height: 1.1;
+  }
+  
+  .content {
+    padding-top: 0;
+  }
+  
+  .page-head {
+    display: none;
+  }
   
   /* Call to Action */
   .call-to-action {

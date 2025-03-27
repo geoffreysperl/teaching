@@ -8,8 +8,6 @@ author__name: Geoffrey Sperl
 
 menu__settings:
   menu__items:
-    - title: 'About Me'
-      url: '/'
     - title: 'Teaching'
       url: '/teaching/'
       submenu:
