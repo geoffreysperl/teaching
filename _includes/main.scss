@@ -402,22 +402,16 @@
     width: 100%;
     border-radius: 16px;
   }
-
+  
+  /* Homepage alignment adjustment */
   .homepage-aligned {
-    padding-top: 0;
+    padding-top: 0; /* Remove default padding */
+  }
   
   .homepage-aligned .homepage-title {
-    margin-top: 0;
-    padding-top: 0;
-    line-height: 1.1;
-  }
-  
-  .content {
-    padding-top: 0;
-  }
-  
-  .page-head {
-    display: none;
+    margin-top: 0; /* Remove top margin */
+    padding-top: 0; /* Remove top padding */
+    line-height: 1.1; /* Tighter line height */
   }
   
   /* Call to Action */
