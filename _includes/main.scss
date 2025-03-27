@@ -98,11 +98,11 @@
   .col-6 { width: 50%; }
   .col-5 { width: 41.67%; }
   .col-4 { width: 33.33%; }
-  .col-d-12 { width: 100%; }
   
   /* ==========================================================================
-     4. SIDEBAR NAVIGATION
+     4. SIDEBAR & NAVIGATION
      ========================================================================== */
+  /* Sidebar Layout */
   body.has-sidebar {
     display: flex;
     min-height: 100vh;
@@ -128,6 +128,7 @@
     height: 100%;
   }
   
+  /* Logo */
   .logo {
     margin-bottom: 40px;
     text-align: center;
@@ -143,6 +144,7 @@
     height: auto;
   }
   
+  /* Navigation */
   .main-nav {
     flex-grow: 1;
   }
@@ -170,12 +172,12 @@
   }
   
   .nav__link:hover {
-    color: #CE6455;
+    color: var(--primary-color);
   }
   
   .active-link {
-    color: #CE6455;
-    border-bottom-color: #CE6455;
+    color: var(--primary-color);
+    border-bottom-color: var(--primary-color);
   }
   
   .nav-item-container {
@@ -211,7 +213,7 @@
   }
   
   .dropdown.show .dropdown-toggle {
-    color: #CE6455;
+    color: var(--primary-color);
   }
   
   .dropdown-menu {
@@ -235,7 +237,7 @@
   }
   
   .submenu-link.active-link {
-    color: #CE6455;
+    color: var(--primary-color);
     font-weight: 600;
   }
   
@@ -244,12 +246,42 @@
     display: block;
   }
   
+  /* Sidebar Footer */
   .sidebar-footer {
     margin-top: auto;
     padding-top: 30px;
+    text-align: center;
+  }
+  
+  .sidebar-footer p {
     font-size: 13px;
     color: var(--text-alt-color);
-    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 0;
+  }
+  
+  .sidebar-social {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 10px;
+  }
+  
+  .social-link {
+    font-size: 14px;
+    color: var(--text-color);
+    transition: all 0.3s ease;
+    display: inline-flex;
+    align-items: center;
+  }
+  
+  .social-link i {
+    margin-right: 5px;
+    font-size: 16px;
+  }
+  
+  .social-link:hover {
+    color: var(--primary-color);
   }
   
   /* Mobile Navigation */
@@ -652,17 +684,7 @@
   }
   
   /* ==========================================================================
-     11. SIDEBAR FOOTER STYLES
-     ========================================================================== */
-  .footer {
-    margin-left: var(--sidebar-width);
-    width: calc(100% - var(--sidebar-width));
-    margin-top: 80px;
-    padding: 40px 0;
-  }
-  
-  /* ==========================================================================
-     12. MEDIA QUERIES
+     11. MEDIA QUERIES
      ========================================================================== */
   @media (max-width: 1024px) {
     .col-d-12 { width: 100%; }
@@ -687,8 +709,7 @@
       transform: translateX(0);
     }
     
-    .content,
-    .footer {
+    .content {
       margin-left: 0;
       width: 100%;
     }
