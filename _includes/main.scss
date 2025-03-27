@@ -210,11 +210,28 @@
     margin-bottom: 15px;
     display: none;
     text-align: center;
+    border-left: 2px solid var(--primary-color);
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .submenu-link {
+    padding: 6px 0;
+    font-size: 14px;
+    font-weight: 400;
+    opacity: 0.9;
+    transition: all 0.2s;
+  }
+  
+  .submenu-link:hover {
+    opacity: 1;
   }
   
   .submenu-link.active-link {
     color: var(--primary-color);
     font-weight: 600;
+    opacity: 1;
   }
   
   .dropdown:hover .dropdown-menu,
