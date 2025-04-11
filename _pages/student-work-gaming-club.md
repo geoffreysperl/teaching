@@ -1,20 +1,21 @@
 ---
 layout: page
-title: Afterschool Gaming Club
+title: The Cosmos Adventurers' Guild
 description: Building literacy, community, and critical thinking through games
 permalink: /student-work/gaming-club/
 ---
 
-## Afterschool Gaming Club
+## The Cosmos Adventurers' Guild
+### An After-School Tabletop Gaming Club
 
 <div style="text-align: center; margin: 30px 0;">
   <img src="/media/images/fun_day.jpg" alt="Students playing board games" style="max-width: 80%; border-radius: 8px;">
   <p><em>Students enjoying board games during our pre-break "Fun Day," December 2024</em></p>
 </div>
 
-In December of 2024, before the winter break, we held a special "fun day" at Hamtramck High School where I organized a board game activity to gauge student interest in gaming. The response was overwhelmingly positive, with students demonstrating enthusiasm for games that challenge their critical thinking, foster communication, and build community.
+In December of 2024 (before the winter break), we held a special "fun day" at Hamtramck High School where I organized a board game activity to gauge student interest in gaming. The response was overwhelmingly positive, with students demonstrating enthusiasm for games that challenge their critical thinking, foster communication, and build community.
 
-Based on this successful trial run and continued student interest, I'm excited to announce the launch of our after-school gaming club beginning in April 2025.
+Based on this successful trial run and continued student interest, I'm excited to announce the launch of the Cosmos Adventurers' Guild, our after-school gaming club, beginning in April 2025.
 
 ### Club Goals
 
@@ -26,7 +27,7 @@ Based on this successful trial run and continued student interest, I'm excited t
 
 ### Games & Activities
 
-The club will feature various types of tabletop games, including:
+The club features various types of tabletop games, including:
 
 * Roleplaying games
 * Strategy board games
