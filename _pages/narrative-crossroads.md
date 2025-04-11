@@ -70,7 +70,7 @@ The framework helps students understand character motivations in complex texts:
 
 ### Classroom Integration
 
-*Narrative Crossroads* evolved from my work with the Cosmos Adventurers' Guild, our after-school gaming club at Hamtramck High School. The framework supports several pedagogical goals:
+*Narrative Crossroads* evolved from my work with my students and my MAT research. The framework supports several pedagogical goals:
 
 - **Engagement**: The game mechanics provide structure and unpredictability
 - **Critical Thinking**: Students analyze character motivations and decisions
