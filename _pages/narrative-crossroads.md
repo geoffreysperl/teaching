@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Narrative Crossroads Framework
+title: Narrative Crossroads
 description: Character Analysis through Roleplaying for Literary and Historical Study
 permalink: /narrative-crossroads/
 ---
@@ -14,7 +14,7 @@ permalink: /narrative-crossroads/
   <em>Student journals from "The Most Dangerous Game" unit, 2023</em>
 </div>
 
-## Narrative Crossroads Framework
+## The Narrative Crossroads Framework
 
 My MA thesis research at Wayne State University explores how tabletop roleplaying games (TTRPGs) can enhance literacy education in secondary classrooms. This framework represents the practical application of that research—a system that helps students analyze literary characters or historical figures through structured roleplaying.
 
@@ -85,10 +85,9 @@ I've created adaptable *Narrative Crossroads* modules for various texts. Each mo
 - [Narrative Crossroads Framework](/media/documents/Narrative_Crossroads_Framework.pdf)
 - [Narrative Crossroads: The Most Dangerous Game](/media/documents/NC_MDG.pdf)
 - [Narrative Crossroads: The Interlopers](/media/documents/NC_Interlopers.pdf)
+- [Narrative Crossroads: The Outsider](/media/documents/NC_Outsider.pdf)
 - [Narrative Crossroads: Romeo and Juliet](/media/documents/NC_Romeo_Juliet.pdf)
 - [Narrative Crossroads: Historical Framework Template](/media/documents/NC_Historical_Template.pdf)
-
-These resources are available for educational use under a CC-BY 4.0 license.
 
 ### Assessment Approaches
 
@@ -100,3 +99,13 @@ These resources are available for educational use under a CC-BY 4.0 license.
 - Alternative ending development
 
 The framework aligns with numerous ELA standards, including character analysis, evidence-based reasoning, and analytical writing while providing differentiated support for multilingual learners.
+
+**Acknowledgment**:
+
+*Narrative Crossroads* was inspired in part by Spring Villager's *Last Tea Shop Complete*. The game format of *Last Tea Shop Complete* is open for hacking and remixing under a [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
+
+*This product is licensed under the ORC License held in the Library of Congress at TX-307-067 and available online at various locations including [www.chaosium.com/orclicense](https://www.chaosium.com/orclicense).*
+
+*This product is the original work of Geoffrey Sperl.*
+
+*BRP and Basic Roleplaying are trademarks of Chaosium Inc.*
