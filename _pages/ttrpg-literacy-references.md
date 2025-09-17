@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Narrative Crossroads
-description: Character Analysis through Roleplaying for Literary and Historical Study
+title: TTRPG & Literacy References and Resources
+description:
 permalink: /ttrpg-literacy-references/
 ---
-# TTRPG & Literacy References and Resources
-
 Cook, Michael P., Gremo, Matthew, & Morgan, Ryan. (2017). We're just playing: The influence of a modified tabletop role-playing game on ELA students' in-class reading. Simulation & Gaming, 48(2), 199-218.
 
 Cook, Michael P., Morgan, Ryan, & Gremo, Matthew. (2016). Implementing tabletop gaming in the English classroom: Promoting literacy through interactive gameplay. Minnesota English Journal.
