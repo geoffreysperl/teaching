@@ -2,7 +2,7 @@
 layout: page
 title: Narrative Crossroads
 description: Character Analysis through Roleplaying for Literary and Historical Study
-permalink: /ttrpg-literarcy-references/
+permalink: /ttrpg-literacy-references/
 ---
 # TTRPG & Literacy References and Resources
 
